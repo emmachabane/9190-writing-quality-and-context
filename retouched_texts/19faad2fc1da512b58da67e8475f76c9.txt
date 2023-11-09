@@ -1,0 +1,288 @@
+Shards of his phone’s screen glass were scattered all around him on the ground. His
+thoughts were just as scattered. His gut is on fire, his head feels like it’s been caved in, and he’s
+cold, so cold. He pushed himself up with his left hand, and saw the tattoo on his wrist: WWJBD.
+He had to think: what would James Bond do? James Bond would get his mind together. But his
+mind wasn’t functioning right. Everything was blurry.
+The Program was never meant for him. It was probably meant for other programs, other
+systems that would undoubtedly earn marketers more money hunting slack-jawed consumers in a
+sea of data.
+That wasn’t why he built The Program, though. It was the culmination of his PhD
+dissertation that had become the most advanced artificial intelligence system in the field. He
+wanted to become the most recognized leader in computer science. The world would lie at his
+feet. He would have the most viewed TED talk on the Internet. He would become a recurring
+guest on RadioLab, the computer scientist version of Oliver Sachs.
+
+Not yet, though—he’d held off publishing to test it. Like many scientists, he tested his
+invention on himself.
+He had two major breakthroughs in his work. The first came almost exactly a year ago.
+For fifty years, machine learning algorithms had been using artificial neural networks based on
+grossly simplified versions of brain operations had stalled the field at clunky programs limited to
+specific actions dictated by the programmers.
+Late one night, as he studied the neuroscience of the brain in the silence of his dark
+apartment, he lapsed into a daydream as he stared into an abstract painting on the wall he once
+purchased at a garage sale. Maybe it was the third whiskey on his brain but he watched the colors
+and thought: are they hovering? The light colors against the dark lines that bordered the shapes
+seemed to lift the shapes off the canvas, the edges waving slightly while others faded back. Is
+that 3-D?
+He remembered that he once read in a neuroscience textbook that the rods in the eyes
+recognize shape and movement by being sensitive to the contrast between light and dark. He got
+up and felt the painting with his fingers, drifting the tips over the brushstrokes. He sank back into
+the couch and stared at the painting, and that’s when he arrived at a simple, yet hard to accept,
+principle: the brain is not a thinking machine, but a pattern-recognizing one.
+The brain usually only reacted, basing actions on remembered history. The brain
+recognized patterns by building on prior pattern recognitions hierarchically, from simple to
+complex. People experienced, learned lessons in life, recognized a few patterns, and responded
+when situations matched situations they’d already experienced. People only react to patterns, he
+realized as watched the shapes hover within the painting. And patterns could be predicted.
+#
+
+WWJBD / 3
+For a week he spent twenty hours a day developing a matrix of every element that
+behavioral scientists had established impacted people’s decisions. On one axis he listed
+personality criteria of the subject: likely personality traits, parents’ marital status, their financial
+history, their education level, even whether they had eaten in the last four hours. On the other
+axis typed out a list of situational criteria: whether the decision faced the subject with an
+attractive person, a person of authority, a near-term deadline, a threat or an opportunity, or
+whether the situation had been experienced before. He then used algorithms drawing from
+Bayesian Inference to extract the most probable decision from all available information.
+It was the most comprehensive matrix that anyone had ever built into an artificial
+intelligence program, and for good reason: no computer scientist had ever truly attempted to
+build a program to match the complexity of human psychology. Science fiction authors
+conveniently skipped the how to jump to the when robots could pass for humans. And somehow
+the robots always became evil, human-killing machines. But the applications of such a model
+were endless. Every telemarketing firm in the world would race to buy the program.
+To test it, he built it off the one test subject he knew the most thoroughly: himself. He
+used his own profile for the “personality” of the Program. He programmed it using the features
+of his own personality, his own life history, and his own typical emotional reactions.
+And it worked. When he ran test situations against his Program, the Program made
+determinations that correlated with his own, independent decisions 87% of the time, with pvlaues < .0013.
+Ebullient, he began preparing a study using a pool of subjects recruited through social
+media networks, bringing in a team of other grad students who normally studied trends in
+Facebook. After comparing the Program’s answers to a questionnaire with those a selection of
+
+WWJBD / 4
+subjects provided on their own, independently completed questionnaires, he learned just how
+accurate his Program could be. He could wave those results throughout the academic world,
+bringing him fame, fortune, a tenured professorship and a number of book deals.
+Then he read the paper of some MIT students (and did it always have to be MIT?)
+advertising the work he’d spent five years developing. Not that they’d stolen his work; no, they’d
+just developed the almost the same artificial intelligence program as his. But they’d gotten there
+first. In the tech world, no one cared about the guy who finished second.
+For a week he lay on his couch, slurping cereal from a bowl, watching TV. Calls from his
+dissertation advisor went unreturned. If he had a girlfriend, she would have dumped him. But he
+hadn’t had a girlfriend in years, so he didn’t have to add that blow to the mix.
+It was the James Bond movie marathon that led to the second breakthrough.
+#
+He’d watched many Bond movies over the years, going to the new ones alone when no
+one joined him. Part of the allure of James Bond was that he was on the opposite end of the
+spectrum from David. James Bond was smart, but also always cool, calm, and collected. David
+was awkward, shy, and nervous. Bond always knew how to react. David stuttered when he didn’t
+know how to answer a question. Bond leaped even when it wasn’t clear he would land safely.
+David had to look both ways three times before crossing the street. And who couldn’t admire a
+man who knew exactly how to approach a woman and make her fall for him?
+Dr. No, the original Bond film, was on. Sean Connery was suave and handsome, awake
+to everything, and exuded the confidence that everything he did was exactly as it should have
+been done. David watched Connery’s Bond move about the screen, raising only an amused
+eyebrow in the face of danger. If only I could act like Bond, David thought.
+
+WWJBD / 5
+That’s it! He could use Bond as the basis for his Program. The Program would tell him,
+with near exactitude, how he could act like Bond.
+Bond was a fictional character, of course. David certainly knew that; no one acted like
+Bond in all situations. No one was as calm and determined in every situation as Bond. People
+were emotional, they panicked, they ran for their lives. They missed the shot under pressure, they
+succumbed to injury, they said the wrong things when the stakes were high. No one could be like
+Bond all the time.
+Except the Program could.
+#
+David studied the minutia of life from the computer scientists’ perspective, breaking each
+daily decision into a series of smaller decisions that people take for granted everyday. Lest one
+believe that this approach is overwrought with tiny details, . . . Well, that’s where people forget
+just how much the brain automates life functions.
+James Bond’s life included all those everyday situations, and set him up for a life ready
+for any challenge would-be world domineers might create. His life began with the way he
+approached the world--always in style, dressed to impress in any environment, and ready to
+enjoy the finer moments that came with them. James Bond didn’t stroll to the store in sweat
+pants and a t-shirt; he walked into a restaurant with a fitted dress shirt and polished shoes,
+ordering a Perrier with his vodka. The first thing he learned from Ian Fleming’s character: in
+Bond’s world, there was no place for a slob.
+Studying Bond left him with the nagging sense that he’d treated himself, and his life, like
+he were rushing through it like he was perpetually tackling an endless number of grimy weekend
+household chores. He hadn’t bought new clothes in years; all his clothes were spotted with the
+
+WWJBD / 6
+stains of fast food eaten at his desk. He managed his wiry hair with scissor trims between
+monthly haircuts. He had worn the same scudded, wrinkled shoes for a year. The 30-minutes of
+recommended daily exercise barely covered the amount of walking he did in a week.
+He didn’t spring for the finest brand-name labels, but damn it felt good to don a wardrobe
+of brand new, well-fitted clothes. He learned to use the weight machines at the university gym.
+And he hadn’t before realized how relaxing it could be to sit with his coffee in the cafe before he
+rushed off to work.
+He was ready to tackle the next challenge of being Bond, or just being a man: dating. He
+modified the Program’s algorithms to process dating scenarios, the likely questions, moves, and
+responses he would need to make for a successful date. David had always struggled with the
+highly uncertain nature of dating; the Program provided him with a roadmap. It gamed out all the
+likely scenarios based on the mood and temperament of the women he approached.
+He scraped data from his Facebook network; research had shown the most likely mates to
+be within his social circle, or one step removed. The matching algorithm paired him with three
+women (there wasn’t exactly a large pool of women to start with). All likes being equal, he
+selected the one with the most attractive evolutionary features: high cheekbones, full lips, and
+large breasts.
+“David, I’m so glad you asked me out for dinner,” Rachel said when the waiter seated
+them. “Though I admit I was surprised when you messaged me. It’s been some time since we
+saw each other at Greg’s birthday happy hour.”
+The Program defined the best restaurant as one with moderately high cost to include dim
+lighting, tables not too clustered, with a classic decor. He spent an hour searching through Yelp,
+he located a restaurant with three dollar signs, a brick interior with only ten tables. Someday, he
+
+WWJBD / 7
+would build into the Program an interface with Yelp.
+A tiny microphone in his ear, connected to his smartphone with Bluetooth, processed her
+responses through his phone’s speech recognition software and fed him the responses
+programmed for the highest probability of wit and humor. He had fed the Program recordings of
+all the conversations between James Bond and any one of the various “Bond girls.” Since he and
+Rachel both worked in analytics at one point, he ad-libbed some of the responses to tailor them
+to familiar subjects.
+Towards the end of the meal, David caught a look from Rachel that he recognized from
+many James Bond movies: the moment a Bond girl betrays her attraction to him. It caught him
+by surprise. He almost wasn’t sure how to proceed. Thankfully, the Program guided him through
+the end of the date smoothly.
+As he walked her to her apartment building front door, in his ear the Program informed
+him of a probability of 86% that when she asked if he wanted to come up for a drink she
+intended to sleep with him.
+#
+The Program had been an almost unbridled success. David had continued to tweak the
+code, adjusting the algorithm based on lessons learned from real situations. Dates with Susie and
+Karen had also seen the same level of success as his initial date with Rachel. Still, he found more
+and more situations in which to apply the aid of the Program. He smoothly guided the
+conversation with his advisor over state of his as yet un-finished research project to a renewal of
+the funding grant financing it. He convinced his landlord not to raise his rent with the next year’s
+lease. Even his local cafe’s barista gave him a wink with his coffee.
+One day he was walking by a tattoo shop, and he thought, Why not me? He came out with
+
+WWJBD / 8
+a tattoo of WWJBD on his wrist in the serif font used for the Goldeneye film poster. What Would
+James Bond Do.
+It was during his revisions to version 3.2 of the Program that he met Irina. He had spotted
+Irina crossing the street one day, and then had spotted her again sitting at a table at a cafe near
+the university.
+One day he waited for her to exit the café, and bumped into her so that her coffee
+dropped to the ground with a splat.
+“I’m so sorry,” he said. “That was absolutely my fault.”
+He saw her frown and furrow her brow as she examined the coffee splattered across the
+sidewalk. Maybe he’d gone too far and angered her—the plan’s overall success probability had
+barely been greater than chance, at 56%. But the Program had also predicted with a 72% rating
+that the meeting of her eyes with his own as he smiled and handed her a handkerchief would
+dampen rising displeasure. He offered to buy her more coffee, and when she hesitated he upped
+the offer to a seasonal flavored latte. He stayed calm, and stayed confident. Irina relented and
+took him up on the offer.
+David took the opportunity to get to know her while they waited in line, listening
+attentively as she talked about her life. She had a faint Ukrainian accent even after twenty years
+in the United States. Her cousins in Ukraine updated her constantly about the war in the east part
+of the country. She ached to visit home but had not been able to yet. Once they had their coffee
+she even stood with him for several minutes, continuing to tell him about Ukrainian culture
+compared with American assumptions.
+When he caught her glancing at her watch, he ended the conversation. He suggested that
+they meet for coffee again, but perhaps without spilling some first. She hesitated, but when he
+
+WWJBD / 9
+applied just the right degree of lift to either corner of his mouth as he smiled she softened and
+agreed. He entered her number into his phone.
+Later he convinced her to go with him to a Greek restaurant for dinner instead, since she
+had mentioned her love of Mediterranean food. Over souvlaki, kefta kabob, and baklava she told
+him about life as a child in Mariupal and Kiev. She began to complain about the uselessness of
+most Ukrainian men, “even the ones who came to America haven’t learned to be good to their
+women.” She reflexively reached across her chest with her right hand to rub her left shoulder, as
+though nursing an old wound.
+“Unlike Ukrainian, many American men let me talk, like you. Though many stare at me
+as though I am a doll, afraid to touch.”
+“But you’re not like a diamond either.”
+Irina cocked her head and scrunched her brow. David smiled and leaned slightly forward
+in his chair. “Well, . . . hardest substance found in nature, they cut glass, suggest marriage, I
+suppose it replaced the dog as a girl's best friend.” That was one of David’s favorite Bond lines,
+from Diamonds are Forever. In the movie, M responds to Bond Refreshing to hear there’s one
+subject you’re not an expert on.
+Irina laughed, “Yes, you could say that. Did anyone ever say that you are very witty?”
+“Only my friends with a sense of humor.”
+After dinner, she insisted on taking him for gelato. “You must have ice cream on cold
+nights.”
+They stood smiling at each other as they scooped the gelato from cups. Until her phone
+rang; she frowned at the screen. She answered in Ukrainian. After a terse statement she hung up.
+“A close friend?” he asked.
+
+WWJBD / 10
+“He is no one.” She didn’t elaborate.
+The Program was silent, so David took that as a sign to let the silence sit.
+A compliment will induce warm feelings toward you with 67% probability, the Program
+informed him a moment later through the bud in his ear. David looked down at his ice cream,
+then looked back at Irina. “Thanks for taking me for ice cream,” he said.
+Irina laughed. “You are the one who has paid for it.” She scooped another spoonful into
+her mouth. “So thanks to you.”
+#
+He would later wonder, while sorting through his scattered thoughts as he lay shivering
+on the pavement clutching the knife wound in his gut, whether his feelings for Irina led him to
+act more like James Bond than the Program. The recurring crack in Bond’s cool was his
+compulsive need to save, or at least attempt to save, the women he seduced.
+For weeks, things had been fine and getting better. He took Irina to see artsy movies,
+hipster bars, sleek galleries, and haute restaurants. But the calls became incessant—before long,
+every nice evening was broken by another angry voicemail from the man who could not let go. A
+glance at the number and her face would go dark. The transcribed text of the voicemail would
+make her go silent. David noticed her look over her shoulder once when she was walking with
+him down the street. The Program warned of a 90% probability that Irina would withdraw from
+all people after several weeks.
+He stayed up late each night, feeding the Program personality data on mongoloid thugs—
+though the dataset he used was named something far more scientific: “Interviews with business
+enforcers.” He needed the Program to determine the balance between aggression and influence.
+Too much aggression only instigated an equivalent or higher level of aggression in return. The
+
+WWJBD / 11
+trick was to instigate a situation in which aggression was neutralized, allowing him to assert
+enough influence to bring Irina with him.
+“I see the way your face changes when his number comes up,” David told her. “If you
+need help . . .”
+“It is not your problem, David.”
+“I want to make sure you’re safe. Someone might need to intervene.”
+Irina smiled but didn’t react. Now that that he thought of it, she hadn’t understood that he
+already had an intervention in mind.
+The night he convinced Vlad to meet him, Vlad expected Irina. And of course his name
+had turned out to be something as darkly Slavic as Vlad. David had configured his phone to
+appear as a replica of Irina’s, displaying her number on Vlad’s phone. David had initially tried a
+soft power approach of having “Irina” spurn him via text, but Vlad only became more
+possessive. So the plan transitioned to an act of aggression countered with a show of domination
+to create a division between the two of them.
+If only other people could be scripted so neatly by the Program. The Program could only
+provide probabilities of reactions, not exact responses.
+#
+For a while the scene went as envisioned:
+Irina arrived at the park bench to find Vlad there. Vlad grew angry because she was not
+as happy to see him as he’d expected from “her” texts. Vlad raised his voice and Irina became
+upset. That’s when David stepped in from the shadows to tell Vlad to leave her alone.
+Except Irina turned on David, not Vlad, accusing him of stalking her after Vlad repeated
+a text “she” had sent that she never remembered sending. “My life is not a doll’s for you to
+
+WWJBD / 12
+play,” she shouted at David as she stormed off.
+The glint of blade that caught David’s eye made him react as he should have, by pushing
+Vlad’s arm upward and across his body, but David had not practiced enough jujitsu to prevent
+that knife from coming back toward his torso from the other side.
+On the ground, his shirt growing wet with warm blood, he lay staring at the asphalt. His
+eye drifted to the white lines of a crosswalk nearby. In the same chapter was the picture of the
+Ponzo Illusion: a picture of two yellow bars top of black lines forming receding railroad tracks.
+The trick was that the despite the fact that both yellow lines were exactly the same size, the top
+bar appeared shorter on top of the receded tracks. Hold up a ruler and establish that both lines
+were the same; it wouldn’t matter. They looked different no matter how many times you blinked.
+“Isn’t that just like people?” David muttered, placing a hand over the burning wound in
+his abdomen. He should probably call someone, but he hadn’t gotten to that yet. He thought
+about how Irina returned to her dominator, how David hadn’t known to account for the turn in
+Irina’s allegiances.
+The Program informed him it needed more information for a probability calculation.
+“Because people don’t see the way things are.” The Program didn’t respond, so he went on.
+“They see only what their brain tells them to see. And there’s no way around it.”
+He would be physically okay, the Program assured him, as long as he applied steady
+pressure to the wound and sought medical attention immediately. David muttered a command to
+call 911. He pressed his hand to his wound, and spotted the WWJBD tattoo. He decided it would
+be nice to have bedrest. That would give him the time to examine every niche of his decision
+behavior model used by the Program to account for the blindnesses of the mind. James Bond
+may not have been the most reflective sort, but even he learned from his mistakes.
+
+

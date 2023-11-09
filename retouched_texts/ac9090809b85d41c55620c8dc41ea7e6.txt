@@ -1,0 +1,351 @@
+When the face smiles I leave the stick on the toilet tank to let Kevin know the time is nigh. It is a
+mixed signal, really, like beckoning a man to his own destruction. The ironic happy face marks
+the opening crack of the fertile window and the simultaneous rush of a cold hormonal wind that
+intensifies as the endocrine system overcomes its restraints. I am used to this concept, though, I
+pee on sticks all the time and long ago learned to follow their semaphore and guideposts without
+question.
+The purple sticks track ovulation, signifying the pending drop-kick of my egg through my
+fallopian tubes. They offer a smiling guide to timing copulation and maximizing our chances at
+reproduction. The pink sticks detect pregnancy and indicate it with two parallel lines I’ve read
+of but never seen. The sticks build up in the bathroom garbage. My average is five per week - I
+like to count them when I empty the trash, I’ve begun to see them as a new metric for femininity.
+I’m also a pro at aiming my urine at anything attached to a digital reader and mentally timing
+three seconds accurately.
+I know all about metrics since I head up big data for a major retailer. I think the retailer hired me
+because I had the phrase “data scientist” in my LinkedIn profile. At the time I was tinkering
+with my statistics dissertation, which had to do with predicting the impact of texting videos on
+nutrition to the smart phones of diabetics. Kevin, my husband, was a “socially conscious
+entrepreneur,” which meant thinking of apps, realizing they had no plausible tie to a business
+model, and then reading Internet comic strips for the rest of the day. He’d started out in
+advertising, which he’d found dishonest, then switched to marketing, which he’d found
+overthought, and then joined a clean tech start up right before the bust. I guess you could say
+that, when a major retail chain made me an offer, I looked at the graphs of data connecting blood
+sugar levels to time spent watching healthy cooking clips, then over at Kevin, who was playing
+Scrabble on his phone, and decided to take the job. Now my name is followed by the letters
+ABD, All But Dissertation, which is fine. I already have the tools I need to crack life’s code and
+I can leave to the academics the mystery of A Smart Phone-Based Intervention in an InsulinResistant Population.
+Still, the sticks only have a detectable correlation with how often Kevin and I have sex and how
+often I want to smash things. I once thought the happy face was cute, like a young cheerleader
+coaching Kevin’s sperm to reach new goals, but after six months without success I noticed that
+my PMS symptoms were triggered by the faces on those Have A Nice Day bumper stickers, like
+Pavlov’s dog turning on his owner, ripping his throat out, and then ringing that stupid bell in his
+ear as he bled to death wishing he’d studied accounting the way his father had wanted.
+I track everything on an app. It uses flowers and hearts to describe fertility and the act of love,
+respectively and respectfully. Sometimes, when Kevin and I are doing it, I think about how
+excited I am to log this data point afterwards. Self-tracking is a big tenet of the Quantified Self
+movement, and feeling rewarded is a big boost to self-tracking. I don’t rely on the app alone, I
+also keep an Excel spreadsheet that pulls information on my body temperature, mucosal lining
+thickness, and sleep patterns into a Pivot table. I’m thinking of adding a chocolate consumption
+variable, but I don’t really want to if I can avoid it.
+My friend Shelly from work had twins via in vitro. I am going to see her fertility specialist in
+two weeks, even though Shelly said her kids ruined her life. She claims to love them like crazy
+in spite of the devastation.
+“Are you doing candlestick pose?” she asks me over lunch one day.
+“What’s that?”
+
+	  
+
+Mittelschmerz / 3
+“Studies have shown that women who raise their legs above their heads after copulation have
+higher pregnancy rates.” Shelly loves to say, “studies have shown.” It is her mantra. Mine has
+become, “Let’s make this one a quickie.” I’m thinking about the meaning of this when she asks,
+“How does Kevin feel about all this?”
+“Huh?”
+Shelly puts down the fork holding her quinoa and salmon salad. “Kevin. The man attached to
+the penis you are having sex with. How does he feel about the appointment with Dr. Foo?”
+“Fine, I think.” The truth is that I forgot to ask, just sent Kevin the meeting request on Google
+calendar and made sure he accepted it later.
+That night after sex I fling my legs above my head and place my hands onto my lower back in an
+attempt to maintain the candlestick position. Kevin asks me if it’s really called “embattled
+mongoose pose” and, when I laugh, my legs fall down and odd noises emanate from my lady
+parts. I’m so embarrassed that I bury my head under a pillow and ignore Kevin’s attempts to
+reassure me, which he doesn’t do that well since he’s laughing so hard he is crying and can’t
+breathe. In the end he lies on top of me and pretends to sleep on my pillow-head with his hands
+tucked under the base of my neck. I eventually remove the pillow and let him kiss me and stroke
+my hair. I wonder if this could be the causative factor behind success and how I will code it into
+my spreadsheet.
+It isn’t, though, and I get my period nearly two weeks later, before I can even use the pink stick
+to look for parallel lines and bringing down my stick count for the week. Kevin and I go see Dr.
+Foo and, in the waiting room, we sit on a couch framed by natural sunlight because I think it will
+coax the maternal side out of me. Kevin plays on his phone while I admire the photos of flowers
+that were deemed safe enough to be hung on the walls of a fertility clinic. The place is a train
+
+	  
+
+Mittelschmerz / 4
+station, women arriving, women leaving, women drinking tea at the counter, women, women,
+women. One sits across the room from us with her headphones plugged in and her eyes closed,
+and I realize I know exactly what she is doing – a guided meditation. I smirk as she stops to
+answer a text message and then resumes her pose. Then, I wonder if maybe she knows
+something I don’t and I should incorporate mindfulness into my algorithm.
+
+“So, how was the appointment?” Shelly asks me at work the next day. She is wearing a sweater
+with rainbow-striped sleeves and a neon yellow cat on the chest.
+“Fine, he ordered some labs and I have to get an H-S-”
+“An HSG test, I thought so,” Shelly says. “To see if your tubes are blocked with gunk. If they
+are, studies have shown that a small percentage of women will have their tubes unblocked by the
+exam itself.”
+“Like Roto Rooter?” I ask.
+“Yes, exactly.”
+“Kevin just has to give semen for analysis, and I have to fill out like a 10-page questionnaire on
+my…myself.”
+“Why are you being so cagey?” she wants to know. Shelly wants to know everything. It makes
+her good at her job, actually. Earlier that month, she deciphered that consumer spending in our
+stores was more strongly correlated with ambient light than ambient noise, as we’d previously
+thought. She was the only person who thought to look at sunlight as part of the analysis. When
+she did, it was clearly a variable that confounded the relationship between the alternate
+soundtrack we’d selected for afternoon shoppers and buying behavior.
+“I’m not being cagey, I just don’t like saying the V word at work,” I explain.
+
+	  
+
+Mittelschmerz / 5
+“Ah, no cha cha talk in the cafeteria, I get it.”
+I laugh and spit my brown rice across the table where we’re sitting. “Cha cha?” I manage to
+say. “The most musical name I’ve heard was ba-jingo.”
+“Cha cha cha, cha cha cha,” Shelly says, making her arms and her upper body twist to the
+rhythm. It makes the cat on her sweater undulate.
+“Too much, Shelly, too much.” Sometimes that woman just makes my day.
+
+During the HSG test I feel pinned to the exam table through my cha cha, kind of like a butterfly
+on a bulletin board at the visitor’s station of a national park. Before undergoing this exam, I was
+asked to take a pregnancy test in the clinic bathroom and, as I lie on the table, I tell myself to
+remember to count that stick towards my average for this week even though it isn’t in my
+garbage at home. As I lie on the table, I ignore the discomfort by thinking of how I will code
+this visit in my spreadsheet to see if my variables reflect any changes afterwards. I’ll have to
+make a timeline and show before and after.
+Dye flows through my lower half and I see, on the TV screen, that it snakes its way through my
+fallopian tubes, the path clear as no excess tissue is acting as a bouncer at the entrance. I’m
+clean as they come. Kevin is waiting to take me home afterwards. When I re-enter the waiting
+room, he stands up and I see that his hair is sticking up from dozing off on the sofa in the waiting
+room. Sunlight always puts him to sleep unlike, I guess, the people who shop at my employer’s
+stores.
+Even though we’re in our thirties, Kevin has this eternally boyish quality that makes my heart
+warm and, when he opens his arms to hug me, I kiss his cheek and whisper that I love him and
+that my junk hurts but the test was clear. We get coffee and go to a park where I try to focus on
+
+	  
+
+Mittelschmerz / 6
+what Kevin is saying but my eyes keep wandering over to young, urban mothers pushing their
+kids in swings. The moms have greasy hair and are wearing intentionally lumpy sweaters and
+thick, geeky eye glasses. I wonder, when we have kids, if we have kids, whether I’ll join this
+special club of stylish-yet-excusable-frumpiness because children take all of your time.
+
+Shelly hosts Kevin and me at a barbeque a few weeks later. At this point, we have been trying to
+get pregnant for one year and we are the only couple sans-children at the party. Kevin and the
+men stand in a circle comparing their new cell phones and I look at the children running around
+wearing colorful leggings, their heads marred with hair chalk, their nails unevenly painted with
+polish that they chew off while spacing out. I want to scream at them to stand still and shut up. I
+wonder if that makes me an unfit would-be-mother, then I realize this is entirely predictable
+since I had the Happy Face of Mental Anguish this morning. Janine, another coworker and the
+mother of two little boys, comes over, which is also predictable since she either can’t read
+expressions or doesn’t understand that anger means, “Stay away.”
+“You look like you are in pain, Laura,” she says, confirming the latter. She is wearing an earth
+mother, ankle-length, bohemian dress with Birkenstocks. Her children are blond and curly with
+names I can’t remember except that they make me think of hippie communes and gluten-free
+granola mixed into plain yogurt.
+“My stomach hurts a bit,” I answer, which is true, I’ve been having cramping here and there ever
+since that HSG test.
+“Is it your special time?” I don’t understand what that means until she says, “I can get you some
+Ibuprofen.”
+
+	  
+
+Mittelschmerz / 7
+“No, actually, it’s too early for that.” Special is not how I’d describe my period. Persecution is
+likely closer.
+“Oh, mittelschmerz!” she exclaims. “I was like clockwork with that stuff.”
+“Mittel-what?”
+“Mid-cycle pain. From ovulation. Tell Kevin he’s going to get lucky tonight!” Janine winks at
+me and I wonder why everyone assumes we’re trying to have kids, even though we are.
+“That sounds like a German torture device,” I tell her, trying to joke around as I ponder why I’ve
+never heard this word before.
+“Anyway,” she continues. “I brought you something.” Janine sets her son’s organic apple sauce
+squeezy thing down and pulls a brochure out of her back pocket. It has a drawing of copulating
+male and female bodies on the front and, just as I’m about to smack her under the assumption
+she’s going to hand me the Vegan Guide to Reproductive Kama Sutra, I notice the title says Bay
+Area Ballroom Dancers. “I heard you and Shelly talking about Latin dancing in the cafeteria, so
+when I saw this I thought of you.” It takes me a moment to grasp this and then I manage to say,
+“Thanks Janine, I need to freshen up” before I run into the house in a giggling fit. I have to tell
+Shelly, she’ll just flip.
+The parents at the party seem exhausted and the children are misbehaved. The collective sound
+of their tantrums is like hearing a hundred entrepreneurs whine about not getting onto a Top 30
+Under 30 List. I wonder why Kevin and I are putting ourselves through this. Maybe we should
+just forget it all and travel or spend our money on fancy restaurants or those ballroom dance
+lessons in Janine’s brochure. Then I see one little boy with dark blond hair and chubby cheeks
+run across the living room, pause, stand on his tippy toes to turn off Shelly’s halogen lamp, and
+run outside. He has the same rascally quality as Kevin and, with that one antic, he makes my
+
+	  
+
+Mittelschmerz / 8
+chest open in a feeling of longing and sadness. “Wilder! There you are,” I hear Janine say. So
+that was his name, Wilder, not Rory or Shepard or Kai. I think Kevin and I would prefer
+traditional, slightly old-fashioned names for our kids like Henry or Rose, but I put this thought
+aside because I don’t want to cry at Shelly’s party. I’ll just let it feed my bitterness instead.
+I slip outside again as I’m curious to see how Janine handles a scoundrel. Wilder has found his
+apple sauce container and, just when I’m about to be impressed at his self-reliance, I see him
+smile with half of his mouth. This is an expression I recognize as the one Kevin has when he is
+sneaking drug store candy into a movie theater while humming the Pink Panther theme song.
+Then, darling Wilder points his snack at Janine and squeezes a large stream of organic goodness
+onto her dress. When she shrieks, I have to run inside giggling for the second time.
+“Having fun?” Shelly asks.
+“Great party!” I tell her.
+
+After Kevin and I try that night, I kick him out of the room, debunking the myth that women
+prefer to cuddle and making it clear that his entire body becomes unnecessary once it has
+released the pieces that I need. Then, I place pillows under my lower half and heave my legs up
+into the air with no need to feign modesty or elegance. As I lie there, I wonder what else have I
+been in the middle of without realizing. Mittelschmerz, mittel-grocery-store-checkout-line,
+mittel-sentence, mittel-life crisis. Maybe I should have finished my PhD after all because I’ve
+missed so many causative factors in this analysis.
+During our our second appointment with Dr. Foo, he claims that all our tests are normal. I have
+plenty of eggs in storage. I think of myself as the Costco of ovum, my eggs all lined up in glass
+enclosures wearing US Marine Corps fatigues because they are ready to deploy. Then I realize
+
+	  
+
+Mittelschmerz / 9
+how small my eggs likely are and begin to think of them as ping pong balls bouncing into the
+bushes, hopefully to be found by Kevin’s troops during a search and rescue mission.
+“So, if everything is normal, why is this taking so long?” I ask.
+Dr. Foo leans back in his chair and presses his fingertips together. His fingers are extremely lean
+and his nails are completely clean. In front of him lie laminated pictures of the human
+reproductive system. They are completely unsexy. Kevin holds my hand. “Well, Laura.
+Sometimes infertility is unexplained,” Dr. Foo says.
+“What?”
+“There is no reason for not getting pregnant. It just doesn’t happen.” I sit, stunned. He continues,
+“I think you should continue to try for a few more months, and we can try intrauterine
+insemination if you don’t become pregnant on your own. Also, remember to just have fun.” He
+smiles, showing teeth as perfect and clean as his hands.
+Fun? Didn’t he know that was really just for the husbands? I was hard at work tracking if my
+cycle length had anything to do with the weather, or pollen levels, or if our receptionist at work
+wore yellow. I was perfecting my candlestick pose. I had eliminated alcohol from my diet. Did
+any of that seem fun?
+When we get home, Kevin makes dinner while I watch Shark Tank. We eat without talking
+because Kevin knows when to leave me alone to digest thoughts and / or food. He is very
+empathetic that way. It is a trait I hope our children inherit.
+“What would you invent?” he asks, when the show is over. He presses his nose against the top
+of my head and smells my shampoo.
+“I don’t know.”
+“You’re going to be a great mom someday.”
+
+	  
+
+Mittelschmerz / 10
+I nod but don’t speak. Lately, reassurance has begun to feel as packaged as a TED talk. Now
+comes the part where he connects our personal hardships to a revelation on humanity. But Kevin
+lets his sentence lie in the room as the last words spoken for a while.
+“Want to see what I invented?” he asks, making me realize I not only forgot to return the
+question, I have no idea what he has been doing lately. When I nod, Kevin hands me his phone
+and I take it with both hands to show respect for his creation. I press “Enter” on an icon of an
+ancient, wooden sign and am presented with the image of an old woman holding a crystal ball.
+She looks perfectly old-fashioned in the way that I’d picture a fortune teller at a carnival or state
+fair. A cartoon-like speaking bubble appears by her mouth and the text, “What is your
+question?” appears in it as a raspy sound voices this question aloud. Kevin nudges me to talk.
+“What is our future?” I ask.
+The woman’s mouth opens and closes as she whispers her reply while “Go outside” appears in
+the text bubble. Kevin gently but eagerly shoves me off the couch. I walk out into our tiny
+backyard. The phone vibrates in my hand and a constellation map appears that pivots a bit until
+it matches the night sky above me. “See!” Kevin says, practically dancing in his flip flops. “It
+knew you were outside, and figured out exactly where!” The fortune teller re-appears and says,
+“Adventure is a great way to harness the feminine energy of Neptune. Be sure to try new and
+exciting things to connect your inner, spiritual and outer, physical heroines.” Then, she dissolves
+into nothing, leaving behind a flashing ad for a conference on embedded systems.
+“Hey, ads were the only way to monetize it,” Kevin says, shrugging. A surge of conflicting
+emotions renders me nearly dumb, so I switch to canned tech talk. “How many active users do
+you have?”
+
+	  
+
+Mittelschmerz / 11
+“Two hundred K,” Kevin answers, beaming, “and half signed up during our soft launch! Users
+log in like three times a day, and most just want to know if they should marry their significant
+others.”
+“Really? How do you answer?”
+“We dip into their social media streams. If the sentiment analysis is generally positive, and
+photos containing the end user and one other human body receive a high number of likes, we
+show two smiling emoji’s standing under a huppah.”
+“A what?”
+“You know, the Jewish wedding canopy?”
+“And if it’s negative you link to Tinder?”
+“Good idea!” Kevin says, totally serious. “And look,” he continues. “It’s just been gamified!”
+Kevin opens the beta version of the app on his phone. “See, you can upload photos of your palm
+and see if your prediction matches the fortune teller’s, in which case you get points. If you want,
+you can send your friends a ‘high-five’ and read each other’s palms.”
+I’m grateful for the dark because it gives me the chance to compose my thoughts and my
+expression. Initially, I want to scream at him and his stupid fortune teller, but then I see how
+happy Kevin is with his creation and I give him a hug and congratulate him.
+The next day I manage to forget about it until I notice three people sitting around me on BART,
+our rapid transit system, taking photos of their palms and giggling. Shelly can tell I’m livid
+about something and demands to know what. When I tell her, I detect a flinch but I’m not sure if
+it’s because the analyst in her is sad or she has the app on her phone. I don’t ask.
+
+	  
+
+Mittelschmerz / 12
+“Two hundred thousand users are a strong indication that the market needs a GPS-enabled
+fortune teller app. Apparently we’re all seeking some kind of answers in the form of a predictive
+model.”
+“That isn’t a predictive model! That is random gunk!” I try to keep my voice down.
+“Look, nothing is predictive until it is. At the very least, the app is providing people with some
+sense of safety we all crave.” She yawns and rubs her eyes.
+“Tired?”
+“We’re sleep training. We’re using the No Tears method,” Shelly says, as if I’m supposed to
+know what that means.
+“No tears for who?” I ask in all seriousness.
+“Funny ha ha, Laura. It means I run in there whenever they cry even though we’ve spent two
+hours rocking them to sleep.”
+“That sounds tough.”
+“Yeah, it doesn’t seem totally right to me, but some studies have shown … you know,
+whatever.” Shelly presses her palms into her eyes and I put my hand on her back and give her a
+small rub. “I think I’m going to nap in the conference room,” she says, and slugs off.
+
+That evening I stand on the BART platform waiting for my train and refusing to look at my
+phone even though it keeps buzzing to remind me to do the mindfulness meditation I’ve been
+delaying. All I want is to go home and lie on the couch with my iPad propped up on my
+stomach. I hear an annoying, repetitive noise and spot a familiar, blond and curly-haired little
+boy dribbling a kiddie basketball a few yards away. Janine’s husband is sitting on a bench
+behind him, immersed in his phone. I’d say hello if I could remember his name.
+
+	  
+
+Mittelschmerz / 13
+Wilder walks towards the platform edge, dribbling the ball and looking over his shoulder at his
+oblivious father. When Wilder uses both hands to throw the ball down hard, it makes such a
+large sound and echo that a few commuters standing nearby seem to hear it despite their ear
+buds. Still, his dad still doesn’t detect his son’s departure. Wilder moves further away and raises
+his hands dramatically above his head, the ball poised to create maximum impact. This time, it
+ricochets off the floor and over the platform, landing on the train tracks below. He stares at his
+basketball, his lower lip sticking out and his fists by his sides. I hear the grumble of the
+oncoming train and get this “oh no” feeling in my chest. My legs begin moving before my mind
+knows what I’m doing.
+“Wilder!” I yell as I shove past people. “Stop!” I don’t think he can hear me since the train is
+really close by now, its grumble turning into a full growl. As it slides into the station, Wilder
+takes a step forward. I jump. Before he can lift his other leg, I grab him and propel us backward
+towards safety. I land on my back with him in my arms, his tiny shoulder blades pressed against
+my chest. We are both shaking. When the little basketball is run over, it pops and pieces of it fly
+into the air. A few people film it on their phones as if someone else might want to watch it on
+YouTube.
+I sit up and hold Wilder as he begins to cry. “You’re safe, kiddo. It’s ok. And we’ll get you
+another ball. Hush,” I say as I rock him. He seems to calm down, if wiping his nose on my
+sweater is any indication.
+“Sorry! Oh my gosh,” his dad rushes up to us. “Sorry! I lost him for barely a minute!”
+I help Wilder up and then slowly stand, wiping my hands on my knees.
+“I was just…I wanted to log his afternoon nap onto my phone, I thought it would take a sec, but
+the app froze, and, um,” he shakes his head. “Don’t run away from me ever again, little guy, got
+
+	  
+
+Mittelschmerz / 14
+it?” Wilder stares at him blankly. “Again, I’m so sorry,” his dad says to me. “I need to stick a
+tracking device to his body.”
+“Just trust your instinct,” I say. “It’s like a predictive model.”
+“Thank you,” he says. “Really.”
+I nod and board the train home to Kevin, smiling and eager to explain it all.
+[END]
+
+	  
+
+

@@ -1,0 +1,512 @@
+The box of maple bars in the middle of the conference room table was a
+harbinger of doom. Someone tapped its smeared plastic window and said, “I see
+Jesus.” Muncie opened the box, dug out a bar, and took a bite. The sugary grit felt
+good between his molars. He didn’t give a shit about omens.
+The mood was somber. Kitty, Muncie’s manager, read the official reduction-inwork-force, or RIF, announcement. Muncie looked at Peterson who looked at
+Chambers who looked at Muncie. The engineers knew each well and Muncie could
+detect a slight quiver around Chambers’ right eye. It was their third RIF in
+eighteen months.
+Kitty, sweet Kitty, did her best to soften the blow, but the sanctimonious sound
+of at stake and sacrifice and restructure made Muncie want to puke. In the Greer
+Engineering days, old man Greer would dock himself during a layoff. Now, thirty
+five years later, The Xenix Corporation, a resoundingly successful Fortune 100
+company, reveled in kicking people out the door. The situation was perverse.
+Muncie thought about his work and team. They designed the rear pump
+actuator for the thrust cylinder of a tunnel boring machine. He held three patents
+and was the team lead. Besides his engineering colleagues, two data analysts, a
+staff analyst, and four support associates, middle-aged women dubbed The Hen
+House, rounded out the team.
+Muncie liked everyone. Kitty had done a good job keeping the right people, so
+far. He especially liked Karen Simons, the staff analyst, a funny-as-shit halfChinese millennial, whose black boots and movie-star smile kept everyone
+cheerful. He expected the hens would take it in the shorts this time; the engineers
+were down two from a year ago.
+Kitty finished her speech and invited questions.
+Peterson raised his hand and asked, “What happens if we begin to lose money,
+robots?” He waved his arms like the chubby robot from Lost in Space.
+“I don’t know,” said Kitty, “but I’ll ask.” She scribbled a note and Chambers
+cracked his knuckles.
+A hen asked, “What does disruption mean.”
+“I have those sometimes,” said Peterson, snickering.
+Kitty scowled and made another note. “It’s when a company does something
+radical that changes the competitive landscape, like when Dyson built his vacuum.
+Remember that? Now all vacuum cleaners have a centrifuge.”
+“Why don’t we just say, ‘make something better’?” asked Chambers.
+“That’s not it,” said Kitty. “It’s more than that.”
+“Is it? Really?” asked Muncie.
+“I don’t know,” said Kitty.
+On his way home from work that night, Muncie stopped at the store to buy
+some Pinot Grigio for his wife Patrice. Patrice was a nurse and her hospital was
+cutting staff too. The Muncies were financially stable, but had happily spoiled
+their kids over the years and were playing catch up. Trump’s inevitable gutting of
+Obamacare added to the household angst.
+“You’d think we could catch a break,” cried Patrice, when Muncie told her the
+news and topped off her wine.
+“You should try some pot, honey,” suggested Muncie. “Peterson says you can
+eat it now, cookies, candy, even cracker spreads.”
+“Yuck,” said Patrice. “I’ll stick to the Pinot.”
+Later that evening, while Muncie watched Monday Night Football, Patrice
+looked up from her knitting and said, “I’m tired.”
+“Then go to bed, honey,” said Muncie as the Jets quarterback threw another
+interception.
+“No, I’m tired here.” She drew a circle around her head with her finger.
+“Then get more exercise,” said Muncie.
+“Aren’t you tired, Jim?” she asked.
+“Yes, I’m tired. But be quiet. I’m watching the game.”
+“How tired?” asked Patrice.
+“From here-to-the-moon tired,” said Muncie, wondering what had gotten into
+his wife.
+“I’m going to bed now,” said Patrice, staggering to her feet.
+“You might want to lighten up on the Pinot,” said Muncie.
+
+
+4 | Lessons Learned
+
+The next day at work was hectic. Five change orders arrived at once, each
+requiring an individual triage. A hen was sick and Peterson had physical therapy,
+so Muncie got stuck with most of the work. As he stood at his desk zooming in and
+out of CAD images, Chambers exclaimed, “Well that sucks.”
+“What sucks?” asked Muncie, warily. Chambers could be melodramatic.
+“Kitty’s email. Chad Thomas, that guy in service engineering, his kid died in a
+rock climbing accident yesterday.”
+Muncie checked his email. Sure enough, it was true. He searched the Internet
+and found the story. A seventeen-year-old boy had fallen 300 feet while
+descending Williams Ridge and had died on impact. His climbing partner, a girl,
+was able to reach the body and had spent the night on the ridge, before climbing
+out the next morning for help.
+That’s a hell of a way to spend a night, thought Muncie.
+The email concluded, The entire Xenix family extends its deepest sympathy to
+the Thomas family. Muncie clicked the little x in email’s corner more aggressively
+than usual.
+Muncie tried to imagine how Chad felt. He recalled meeting Chad’s son,
+Charley, a few years back, during a bring-your-kid-to-work day. Chad was a decent
+guy, even-keeled and heads down. Recently he and Muncie had discussed colleges
+in the cafeteria bathroom.
+Muncie checked out the Internet again. A blog article described Williams Ridge
+as an easy climb, but its official web site listed it as a challenging twenty-seven
+pitch sport climb, pre-bolted for less-experienced climbers.
+Muncie knew that climbing was a technical and rigorous sport. He tried not to
+think about Charley’s fall. He wondered how many times he had tweaked the
+same part’s design and if any of his actions had ever saved anyone’s life.
+
+5 | Lessons Learned
+
+Suddenly the mundaneness of his work paled next the enormity of Charley’s
+accident. Zoom and rotate, zoom and rotate. He did the same thing, day in and day
+out. He wondered if Charley’s accident could have been prevented. Lessons
+learned were a big part of engineering, but the lessons always seemed to come too
+late.
+
+That Friday, during happy hour at Lucille’s, Muncie saw Karen with a
+girlfriend, and waved them over to the engineers’ booth. The girlfriend slid in
+next to Muncie, her thigh touching his. Karen draped her arm over Peterson’s
+shoulder.
+“I like that,” said Peterson in mock affection.
+“Don’t get used to it, big boy,” said Karen.
+Everyone joked around for a while and they ordered more beer. Soon the
+discussion turned to weekend plans. Patrice was hosting a baby shower, so Ridley
+Scott was calling Muncie’s name. Chambers had nothing and the women had party
+plans. Peterson was seeing a play called The Aliens by someone named Annie
+Baker.
+“I just saw that,” said Karen.
+“What did you think?” asked Peterson.
+“Do you like lots of talking?” asked Karen, sucking some foam off the top of
+her pint.
+“Not so much.”
+“You will. The entire play takes place in an alley behind a coffee shop. A couple
+of guys, kinda losers, spend the entire time sitting around and talking.”
+
+6 | Lessons Learned
+
+“What happens?” asked Peterson.
+“Not much,” said Karen.
+“Why’d you go see it,” asked Chambers.
+“Why do I come to work?” asked Karen. “It’s something to do.”
+“What do you make of work these days?” asked Muncie.
+“Well, you guys know I’m headed to the top, right?” Karen joked.
+“Yeah, yeah. What do you really think?” asked Chambers.
+“I think you guys do great work and should all receive medals. Gold, silver, and
+bronze.” She tapped each engineer with an imaginary wand and they laughed.
+“Seriously,” continued Karen. “I’ll be lucky to last another year. You guys are
+fun, but the pay sucks compared to other companies. My roommate makes twice
+what I do, same degree.”
+Karen was right, thought Muncie. Xenix was a crappy place to work. At one
+time, loyalty mattered, but not anymore. Now employees were treated like widgets
+instead of people. He would have pushed on years ago, were it not for his own
+inertia and a quaint notion of commitment.
+Muncie drove home a little woozy. A Prius cut off his truck at a four-way stop
+and he bit his tongue. Then, at the next intersection, a jay walker gave him the
+finger, and he went blue in the face, his questionable mental health on full display.
+For the rest of the way home, all he could think about was Charley scampering up
+Williams Ridge with the girl.
+Muncie parked in the garage and went inside. He kissed Patrice goodnight and
+headed straight to bed.
+
+
+7 | Lessons Learned
+
+The RIF victims were announced the following week. Their team lost a hen and
+a data specialist. The hen, Becky, had been around forever and chose to leave
+immediately instead of waiting out her sixty days. When Becky’s goodbye card
+came around, Muncie wrote, “Good luck with your new adventure,” although her
+situation hardly sounded like an adventure. She was a widow and her father had
+Alzheimer’s.
+Kitty bought a small sheet cake and quickly organized a retirement party in the
+conference room. Ten to twelve people dropped by to say goodbye and disappeared
+fifteen minutes later. Becky and Muncie left staring at each other.
+“What’s it feel like?” asked Muncie. “At least you’ve got your pension.”
+“I hate getting riffed,” said Becky. “And why me? I’m a freaking rock star. You
+should see my performance reviews.”
+Muncie liked Becky and how she had always tried to dress nice, even though
+they all sat on their butts all day. She was reliable as hell, too. Once Muncie had
+stopped by her cube late in the day and noticed Today is the First Day of the Rest
+of Your Life written on a small white board. He didn’t believe in little sayings or
+positive thinking or being cheery to make yourself cheery, but he didn’t begrudge
+it in others. He inserted short in front of Life. The next day, Becky had scratched
+out First and replaced it with Last.
+They had a good laugh over that one.
+Muncie licked sugar crust off his white plastic fork. Becky sighed, covered the
+cake, and said, “All mine.” She stared at Muncie, trembling slightly, and tugged at
+a thin gold necklace. She nodded at a glossy Xenix poster of smiling young people
+that said, Our Employees are our Most Important Asset. You Make all the
+Difference.
+“Did you ever notice the word ass in asset?” she asked.
+
+8 | Lessons Learned
+
+“Do you want some more cake Becky?” asked Muncie.
+“You betcha,” she said.
+
+A month after Charley’s accident, Muncie ran into Chad in the bathroom. They
+stood side-by-side washing and drying their hands before Muncie spoke.
+“I’m real sorry about your boy,” he said.
+Chad shrugged. ”At least he went out doing what he loved,” he said.
+“I’m not even going to ask how you’re doing,” said Muncie. I’m just real, real
+sorry.”
+“Thanks, Jim,” said Chad. “See you around.”
+That evening after dinner, Muncie was checking his Facebook feed, when
+Chad’s name came up as a suggested friend. Muncie clicked the invite. A couple
+minutes later, Chad’s acceptance came back.
+Muncie stared. He felt immediately more connected to Chad than he ever had at
+work. The intimacy and silence of their new bond thrilled him.
+Later that night, he crawled into bed and draped his arm over Patrice’s waist.
+The hum of her CPAP machine sounded like a giant lung. He opened his eyes in the
+dark and admired his wife’s soft form. Soon his eyes began to hurt and he shut
+them.
+
+The engineers got new CAD software, version 13.00015-B, and Xenix sent them
+to a three-day training event led by a Frenchman. Muncie preferred an older
+version. The newer versions were less useful and more complex.
+
+9 | Lessons Learned
+
+An hour into the first day, bored out of his mind, Muncie asked if he and his
+fellow engineers could jump ahead.
+“Non. All of you. You must do it,” said Frenchy, enjoying his authority.
+The engineers muttered and ignored the instructor and jumped ahead anyway.
+Life was too short for such nonsense.
+Muncie played around with the software training object. It was an electrical
+assembly that integrated hundreds of teeny-weeny wire bundles. The object
+reminded Muncie of an exhibit of a human nervous system he had seen, an entire
+electrical network sandwiched between two clear panels. He remembered
+standing nose-close and tracing each individual strand to its literal end, where it
+petered out to nothing.
+Muncie zoomed in to inspect a wire. Then he zoomed out. The assembly shrunk
+to the size of a blob. He zoomed in again and pushed a slider to simulate
+electricity. Hundreds of wires burst, too much heat. Muncie made a note.
+When the class finally ended, Muncie scored the survey as low as possible,
+except for Frenchie, who got a negative zero.
+
+Chad Thomas’s first Facebook post about Charley arrived in Muncie’s
+newsfeed at 8:37 on a sunny Saturday morning. He was in his pajamas at the
+kitchen table drinking light roast coffee. He preferred dark roast, but it gave him
+the runs now.
+There were four photos: a grade school portrait, a homemade ceramic mug, a
+silver document seal, and a triumphant shot of Charley raising his fists atop a
+summit.
+“Jesus,” muttered Muncie as he examined the photos.
+
+10 | Lessons Learned
+
+For the past few weeks, Muncie had tried and failed to push Charley from his
+thoughts. Sometimes he saw Charley’s face as he toppled backward, no screams,
+death masks, or terror, just a surprised expression, like one might have when
+examining a blemish or lump in the mirror. He often saw Charley land, not on a
+rock or outcropping, but on a gymnasium floor, a place where a trust fall might
+occur, somewhere without a blue sky.
+Muncie had also been dreaming about falling himself. After each dream ended,
+he awoke feeling oddly powerful, as if he could control gravity. He vainly hoped
+Charlie had felt something positive in the end, a glimmer, an insight, something.
+A long post accompanied Chad’s photos. Muncie poked continue reading and
+words ran off the bottom of his phone’s screen.
+He closed the post without reading it and wondered why he and Chad couldn’t
+just talk? What had happened to real conversation? Facebook isolated everyone
+and everything and turned discourse into itchy little confessions, overwrought
+exhortations, or vague calls to action, share, re-post, trash, read later. Did anyone
+ever read later, wondered Muncie? He thought about un-following Chad but
+didn’t.
+For the rest of the day, Muncie was distracted. At the tire store, the clerk asked
+for his name and he said “fine”. At the golf range, he knocked slice after slice into
+the netting. At the grocery store, he bought Patrice’s favorite food, whole
+Dungeness crab. Then, later at dinner, while alternating between sourdough bread
+knobs, crabmeat morsels, and gulps of wine, the broken shell pile began to depress
+him. As he gathered everything up and headed for the garbage, Patrice barked,
+“Hey, I’m not done yet,” so he told her to clean up herself.
+There was no explaining it.
+
+11 | Lessons Learned
+
+At 1 AM, after tossing and turning for a few hours, Muncie finally read Chad’s
+post:
+Hi Charley, Dad here. Your Grandmother came over last night for dinner and
+brought your favorite meat balls. I can still remember the first time I mashed one of
+those babies up when you were a baby. Mom told me it would be too spicy, but your
+face lit up like a pumpkin. Grandma isn’t doing very well right now, so we got out
+some of your photo albums for a look-see. That seal is from your Jr. High School
+diploma. She wanted me to take a picture, since your high school graduation is
+coming up soon. Another picture, the one from Mt. Pintaro, you emailed from the
+summit. Later you told me that Megan had taken it. I chuckled when I saw it,
+because I knew how much you liked her and wanted to look cool. It’s the red
+bandana. Megan is home from college and stopped by. We played a game of Yahtzee
+in your memory. She said she really did like you. I think about you everyday son.
+Mom is doing well, all things considered. We gave your climbing equipment to
+Walter. His family doesn’t have much money. I miss you every day. Talk more
+soon. Love, Dad.
+87 people had liked the post, a combination of sad and happy faces, hearts, and
+other emoticons. Nobody had commented. Muncie touched Like and the counter
+displayed his name next to the counter.
+
+The next week on Tuesday, the engineers had just come back from lunch, when
+Kitty stuck her head into their area and asked to speak to Peterson. Muncie stood
+on his tiptoes and glanced over the top of his cube divider. Sure enough, Bill Luce,
+Kitty’s boss, was sitting in the conference room. Luce seldom appeared and never
+during the middle of the day.
+Fifteen minutes later, Peterson returned from his impromptu meeting visibly
+upset.
+
+12 | Lessons Learned
+
+“Gonna say anything?” grunted Chambers.
+“What’s there to say,” said Peterson.
+“Are they giving you a package?” asked Muncie.
+“C’mon,” said Peterson and led the guys back to the conference room, where
+he explained that Karen had accused him of sexual harassment and that Human
+Resources was investigating. She had also threatened to sue Xenix. After today, he
+would be on paid administrative leave, until the investigation ended and he knew
+his fate.
+The three men sat in stunned silence.
+“What did she say you did?” asked Muncie.
+Peterson wouldn’t answer.
+“You gotta say it, right now,” demanded Muncie.
+“She says I touched her appropriately. She also says I harassed her.”
+“Did you?” asked Chambers.
+“What does it matter,” cried Peterson. “She said I did. She’s always snuggling
+up to me at Lucille’s and talking about her problems. Once she asked me if she
+should do breast reduction surgery and I said I thought it would be nice.”
+“Nice?” said Muncie. “You thought it would be nice?” He remembered the
+times his gaze had lingered on parts of Karen’s body, parts that she seemed to
+appreciate herself. He might as well be on the complaint too.
+“Did they mention anyone else? Tell us what to say. We’ve got your back.”
+“Tell them whatever. That was the strangest meeting of my life.”
+“What happened?” asked Muncie.
+
+13 | Lessons Learned
+
+“After Luce told me, he asked if I knew what part of a person’s body I can
+legally touch at work.”
+“Legal?” asked Chambers.
+“Yeah. He demonstrated on Kitty. It’s the shoulder.”
+“No way,” said Chambers.
+“I was sitting down. He and Kitty stood face to face. Then he reached out and
+touched her shoulder with his fingertips and she touched his. He’s a lot taller, so
+she had to stretch. They were staring into each other’s eyes. It looked like a weird
+salute.”
+“So, there was space between them,” said Muncie.
+“Of course,” said Peterson. “But it still felt sexual as hell.”
+“How’d you touch Karen,” asked Muncie.
+Peterson stood next to Chambers and gently wrapped an arm around his waist.
+“That’s it?” cried Muncie. “There’s gotta be more.”
+“She said I left it there a little too long,” said Peterson.
+“Any witnesses?”
+“A couple of hens I guess.”
+“I’m gonna complain too,” joked Chambers.
+The investigation into Peterson’s behavior began the next day. Kitty told
+Muncie and Chambers to cooperate with the investigator. They both mentioned
+Lucille’s, but nothing else, because there was nothing else. After Muncie’s
+interview, the investigator asked him to sign an iPad with his finger, which didn’t
+feel very binding.
+
+14 | Lessons Learned
+
+Kitty hired a temp to fill in for Peterson. Troy, a Caltech PHD and CAD software
+expert, looked like a young David Bowie and had half-dollar size gauges in his
+earlobes. He was twice as productive as Muncie and Chambers.
+Down the hallway, Karen was acting like Peterson had gone on a long vacation.
+Muncie wanted to talk to her, but worried it would look suspicious, so he waited.
+Then, one evening while leaving work, he saw Troy kissing Karen in the parking
+lot.
+The next day he confronted Troy and said, “You’re playing with fire. I shit you
+not.”
+“Get a grip,” said Troy. “I play by my own rules, old man.”
+Muncie suppressed the urge to stuff Troy’s gauges down his throat. Chambers
+intervened and sent Muncie to the factory floor to cool off. He walked around for a
+while and chatted with some of his favorite foremen. He stepped into a design lab.
+The technicians were huddled around a 3-D printer watching thin white plastic
+strands spin themselves up into an ovoid shape.
+“What is it?” asked Muncie.
+“A lemon,” someone said.
+“A lemon?” asked Muncie. He squinted and watched the bumpy skin form.
+“Why a lemon?”
+“It’s a test. Don’t get so bugged,” said someone.
+“I’m not bugged,” said Muncie, “just astonished. A freaking lemon.”
+When he got back to his work area, Troy and Chambers had left for the day.
+Muncie got on the Goggle Earth and looked at Williams Ridge again, searching its
+soft shale surfaces, its breadth and reach, for clues. A half hour later he was still
+looking.
+
+15 | Lessons Learned
+
+
+Chad Thomas continued to post photos of Charlie, greeting cards, trees,
+favorite foods, admired DVDs. Muncie found that he could now read the words
+without wanting to die himself. He showed a couple to Patrice, who said, “That’s
+so sweet, what a great dad.”
+Muncie wondered out loud if Chad had really been a great dad or if he was
+trying to make up for a lack of good-dadness with the posts.
+“God you’re cynical,” admonished Patrice. “Why can’t you just accept things
+at face value? It’s part of his grief process, not an exercise in truth. You feel like
+you feel when you feel it.”
+“But we’re always being tested,” said Muncie. “I can judge if I want to, so lay
+off. We’re judged at work, by society, by our families, even by dogs. Life comes
+with judgment.”
+“But you have no evidence,” said Patrice. “You’d never say what you just did,
+if Chad were here to defend himself.”
+“I guess I can’t explain it,” said Muncie. “But look at Peterson. He’s going
+through hell,” said Muncie.
+“Peterson is dead to me,” said Patrice. “I never liked him. He’s slimy. I hope
+he gets canned.”
+“That’s unfair. You don’t even know what he did,” said Muncie.
+“I know,” said Patrice.
+
+A few days later, Muncie ran into Karen in the parking lot and they chatted.
+“Did you really threaten Troy?” she asked.
+
+16 | Lessons Learned
+
+“I didn’t threaten him. I advised him. About you. Look what you did to
+Peterson.”
+“And what did I ‘do’ to Peterson?”
+“How about you tell me,” said Muncie.
+Karen was silent. Muncie could see her referencing her lawyer’s instructions.
+“Don’t worry,” said Muncie. “This is just between you and me. Old friends.”
+Karen began to rock back and forth on her heels.
+“If anyone asks, I will deny it,” she said. “Peterson and I went out. A few
+times.” She placed her index finger on her lips.
+Muncie was suspicious. Karen was making stuff up now.
+“He didn’t say anything to us,” said Muncie.
+“Of course, he didn’t. I told him not to,” said Karen.
+“So, he didn’t touch your ass at work,” said Muncie.
+“He touched way more than my ass,” said Karen.
+“But why?”
+“Because his wife found out.”
+“So why punish him?”
+“I’m not. I’m punishing her. You don’t screw with your husband’s girlfriend
+and expect a free ride. Okay, him too. He led me on.”
+Muncie was struggling to keep up. “So, Peterson broke up with you and now
+you’re trying to get even. You must have really liked him.”
+“Not really, but I have daddy issues,” said Karen.
+
+17 | Lessons Learned
+
+“You know Peterson could lose his pension.”
+“I hope he does,” said Karen. “He and his wife can eat gruel for the rest of
+their life.”
+Muncie tried to draw a diagram in his head connecting the dots. He didn’t
+understand. He knew Karen to be sane and calm, but there was something else
+bubbling up underneath. Was it a generational or personality thing? All he knew
+was that the world had just gotten less safe. Hurt was coming at him from all
+directions.
+“So, why tell me?”
+“Because I want someone besides Troy to know. And don’t mess with him. He
+knows Tai Kwon Do. He’ll kick your ass.”
+“Friends?” asked Muncie, reluctantly sticking out his hand to hedge his bet.
+“I guess,” said Karen and they shook.
+When Muncie got home that night, he opened his email and read a note from
+Peterson saying he had been exonerated and would return to work the next week.
+The next day, Muncie wrote a resignation later, printed a copy, and tucked in
+his top desk drawer.
+When he told Patrice about it, she said, “You’re not ready.”
+“What if I am?” asked Muncie.
+“You’re not,” she said.
+
+Peterson returned to work full of piss and vinegar, crowing about his victory.
+Karen dropped by to say she had been promoted and would be moving to Plant 7 to
+manage ten people. The new Kitty, thought Muncie. Peterson asked Muncie to take
+
+18 | Lessons Learned
+
+some pictures of him and Karen together. On the final snap, Peterson stuck out his
+tongue.
+“Why?” asked Muncie later.
+“It was after that play, The Aliens,” said Peterson. When the second act begins,
+one of the main characters is dead, but you don’t know it until halfway through.
+Boom. The playwright killed the guy during intermission. You think he’s alive and
+then he’s not. And then it hit me. I don’t want to die during intermission. I want
+to fuck Karen Simons. It was all I could think about. Dumb, huh?”
+“I guess so,” said Muncie. “Why is it called The Aliens?”
+“It’s their old rock group from high school.”
+“So, the play is about memory,” said Muncie.
+“Yeah, memory, I guess,” said Peterson.
+
+The next day Muncie officially resigned. He sent an email to Kitty and then
+walked a printed copy out to the factory HR service center. It was the only place in
+the entire building where he could talk to a live person. It had always bothered
+him that he had never met the Xenix board of directors or CEO face-to-face. He
+wanted to test them, to see if they were honorable like Greer.
+The woman in the service center read his letter and said, “Thirty-five years.
+Wow, that’s a long time. Bet you’ll be having a heck of a party.”
+“Nope,” said Muncie.
+No way in hell he was going to suffer through another pathetic sheet cake or
+doughnut box.
+
+
+19 | Lessons Learned
+
+The next day Muncie went for a drive. The day was sunny and, as his truck
+ascended deeper into the mountains, the air cleared and the peaks brightened. At
+mile marker 407, he turned off the freeway and drove seven miles up a gravel
+road to Williams Ridge. He parked next to the off-season barrier, climbed over it,
+and kept going.
+He couldn’t see the ridge, but knew it was out there, hidden behind the trees.
+He remembered a web site that had listed the fifty ways you could die descending
+down a mountain. All the warnings involved mental errors — thoughts of love,
+relationships, or sex, the longing for it or the memory of it. He wondered if
+Charley had been thinking about his female companion when he died. It was an
+unfair accounting, the list, thought Muncie. Who can presume to know what
+someone is thinking the moment before they die, accident or not?
+When he got to the ridge’s base camp, Muncie drank some water and looked
+up. The flatness of the lower levels surprised him. He was expecting something
+more treacherous. He tried to mentally calculate the slope and sine of each switchbacking plane. Higher up, the ridge steepened. Sunken bolts marked the path
+forward.
+Clearly, hundreds, if not thousands, of people had successfully scaled Williams
+Ridge without perishing. Why Charley? There would never be an answer.
+Muncie shielded his eyes and looked at the sky. He imagined Charley’s rope
+falling from nowhere, landing on the ground, and coiling back on itself, freed from
+its owner. He had never climbed anything, ever. He thought about trying to scale
+the ridge up to the first bolt, just to honor Charley, and decided it would be utterly
+stupid to attempt such a thing without gear, people, or knowledge. It was a
+different decision than he might have made as a young man.
+Muncie sat down at a nearby picnic table, opened his backpack, removed two
+cube-shaped white boxes, and opened them. The first contained a huge cupcake
+
+20 | Lessons Learned
+
+with purple frosting inscribed with the name Jim. He ate it slowly while sipping
+water. When he finished, he sucked purple frosting from his fingers.
+Muncie opened the second box. Its inscription was simpler, the single letter C.
+It was for Charley and the girl, whose name he didn’t know. He removed it and
+set it in the center of the picnic table. Patrice had done a nice job.
+Muncie walked back down the gravel path toward his truck. It was getting
+dark. He thought about the second cupcake. Soon, a bird, raccoon, or possibly a
+bear would eat it. Soon it would be gone.
+
+

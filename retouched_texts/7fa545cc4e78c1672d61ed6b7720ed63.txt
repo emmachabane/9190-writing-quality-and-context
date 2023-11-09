@@ -1,0 +1,252 @@
+After three weeks on a Hollywood set, playing the lead in his first feature film had lost all
+its allure. Arun was even more tired than he had been as a software developer at NorthWest
+Technologies in Portland, Oregon. He looked bad, dark Indian smudges of fatigue under his
+eyes. When he pulled all-nighters at work, he looked like someone had punched him in the face.
+He looked like that now.
+He had a short scene this afternoon, but to Nalini, no scene was trivial. He knew all about
+the tough time she’d had, black in Britain, British in the U.S., a woman in sexist India, fiercely
+independent of Bollywood’s black money and Hollywood’s filthy lucre. Director Nalini Roy,
+born Iyengar, was still a high-caste Brahmin on the set, full of contempt for everyone beneath
+her. And everyone on the cast and crew was beneath her. After three weeks, Arun wanted
+common courtesy as badly as he wanted a good night’s sleep.
+Just before filming began, a stranger slipped onto the set—a tall, skinny, black-skinned
+man with a mop of curly black hair. He nodded to Nalini and she nodded to him.
+After the ninth take, Nalini jumped from her perch next to the camera and snapped,
+“Cut.” She strode towards Arun until she was in Indian instead of American personal space. She
+scolded, “That was terrible. Do it again.”
+Arun said politely, “What would you like me to do differently?”
+Small, black, angry, Nalini loomed over him. “Just do it better.”
+“Please, help me out here. Better how?”
+Nalini’s bloodshot eyes began to glitter. Her small shoulders spread out like a hood. She
+seemed to grow huge. When she spoke, her voice was as resonant as it had been on the RADA
+stage years ago. “I don’t know why I cast you,” she said, projecting to the actors and crew
+
+Page 1
+
+The Cosmic Editor
+
+assembled before her. “You’re not an actor. You’re an engineer. Go back to that bloody software
+company of yours and be an engineer.”
+Her words went through him like venom. Through a haze, he heard her say, “Take ten.
+And be back here on time! We aren’t finished yet.”
+Arun brushed past the actors and the crew to stumble to his dressing room. He sat down
+heavily and held his head, trying to get rid of the echo of Nalini’s voice. He was hearing the
+voice that had threaded through his childhood, the voice of his father, a modest, intelligent,
+talented man from Bangalore, deprecate himself by saying, “Oh, I’m just an Indian engineer.”
+As an undergrad at Carnegie Mellon, officially enrolled in the computer science
+department, Arun used to have a recurrent nightmare. He dreamed that he stood on the steps of
+the drama building, not the modern structure where he studied acting, but an ancient, heavy,
+fortress-like building with the two masks, comedy and tragedy, on the frieze above the door. The
+door wouldn’t open. He knocked, bruising his knuckles on the heavy wood, but the door
+remained firmly closed. He always heard the same voice, amplified and theatrical. “Go away!” it
+said. “You don’t belong here. You’re really just an engineer.”
+Someone knocked softly on the door, then entered without asking. It was the stranger
+from the back of the set. His skin was the blackest Arun had ever seen on a South Asian, without
+yellow or purple highlights to relieve the darkness. His eyes had no distinction between iris and
+pupil, but their blackness had a silvery light.
+He was dressed in ordinary t-shirt, jeans, and sneakers, but he wore a gold earring in one
+ear, an ornate stud so heavy it dragged at his lobe, and a heavy gold ring set with a ruby that
+shimmered even in the bad fluorescent light of the dressing room. He said, “I spoke to Nalini.
+She was too hard on you.”
+Page 2
+
+The Cosmic Editor
+
+Around his neck, on a leather thong, was a Shiva amulet. “Who are you?” Arun asked.
+“Mahesh Rao. Nalini’s editor.”
+Arun’s commercial instinct roused and woke. NWT made editing software; this man was
+a customer. “Pleased to meet you.”
+“I heard about you. The actor who worked on FilmEditor. I had to see you. To see if you
+were any good.”
+“You use FilmEditor? You like the new release?”
+“That’s good too. Come see me when you’re done here. I’m in the editing suite at
+Miramax. Ask anyone where I am. They all know.”
+When he finished for the day, Arun wanted a beer and an early night. But he found his
+way to Mahesh’s editing studio.
+An editing room wasn’t much to look at. Dark. Windowless. “Don’t trip over the bloody
+cable,” Mahesh warned. “I had to string two drives together and the cables are all over the floor.”
+He sat before an enormous monitor that provided the only light in the room. FilmEditor 4.0 was
+up and running. Music played. Bhangra. The room had the itchy scent of marigolds and the
+sweet, pungent odor of Indian incense. A pujah smell.
+Arun sat. He leaned back in the chair, feeling the fatigue. Nice ergonomic chair. An
+editor needed it; they sat as much as developers did.
+“Tough day?” Mahesh asked.
+“They’re all tough lately.”
+“You want some chai?”
+“Sure.”
+
+Page 3
+
+The Cosmic Editor
+
+Arun expected the bottled stuff, but Mahesh produced a thermos and poured a cup of the
+real thing, redolent of cinnamon and ginger, milky and sweet. Arun cradled the cup in his hands
+and let its warmth seep into his bones. “This is good,” he said. “This is just how my mother
+makes it.”
+“What’s your family like? Old-fashioned or modern?”
+“Not modern enough.”
+“What do they think of the acting?”
+“Don’t get me started.”
+Mahesh turned his head and his gold earring glinted in the dim light. “Why not?”
+It came out in a rush, as though he’d wanted to tell it for a long time. He was good at
+writing code and he made a good living by it. But acting was different. Acting was a sacred
+thing. The first time he went on stage, he knew he’d found what he was born to do.
+Not in an Indian family, he hadn’t. Not as the son of two anxious immigrants who still
+saw the famine and plague of village India behind the fat of the land in southern California. Not
+as the scion of an engineering dynasty in Bangalore—Arun’s great-grandfather helped to
+establish the BMS College of Engineering, the oldest engineering school in Karnataka—who
+thought that actors were no better than whores and thieves. His parents never told their friends
+that he acted. It was shameful, as though he’d contracted an STD or had a child out of wedlock.
+“Did you? Shame them?”
+Arun snorted. “Good son like me? What do you think?”
+“Too damn good for your own good,” Mahesh said.
+“What about your family?”
+
+Page 4
+
+The Cosmic Editor
+
+Mahesh’s eyes glowed with that silvery light. “We’ve been performers for a long time,”
+he said. “Are you hungry?”
+Arun was suddenly so hungry that his eyes watered. “Yes.”
+“I have samosas. Potato or lentil. What do you like?”
+“Both,” Arun said. Mahesh pulled out a foil packet and unwrapped it. Arun took one. The
+pastry was as hot and crisp as if it had just come from the karhai. After years in high tech, Arun
+thought he was used to marvels. But he was unprepared for the taste of home: the home in exile
+in California and beyond it, the home he didn’t know in India.
+“Good?”
+“Wonderful,” he said, taking a third and a fourth samosa from the foil packet, which
+didn’t seem to empty.
+Mahesh watched Arun eat, then asked, “Now I know all about what your parents want.
+Your dharma. What do you want?”
+The question hurt worse than in the dressing room this afternoon, worse than in the
+sleepless hours of the night, worse than at in the quiet moments in my office at NWT when Arun
+knew he wasn’t happy. “Don’t ask me.”
+“Why not?”
+“Because then I’ll have to decide.”
+“If you don’t, who else will?”
+“Everyone else.” Arun saw a glow, a fiery glow, at the top of Mahesh’s head. He blinked.
+He was so tired he was hallucinating. It had happened before. At the end of his last project at
+NWT, after weeks of eighteen-hour days, he didn’t know whether he was awake or dreaming.
+Mahesh asked, “Want a beer?”
+Page 5
+
+The Cosmic Editor
+
+“You have one?”
+He reached into the bag and pulled out a bottle of Arun’s favorite Oregon beer, a
+microbrew that wasn’t distributed in southern California. “Where did you find this?”
+“Do you need a bottle opener?”
+Arun laughed—he was feeling a little shaky—and said, “What else do you have in there?
+A wedding banquet? An Oscar?”
+Mahesh turned to Arun—in the dark, the whites of his eyes were the most visible thing
+about him—and asked, “Is that what you’d like?” A sly look. But not really joking. As though he
+could bestow it.
+The smell of marigolds and incense was suddenly very strong. Arun said, “When I figure
+it out, I’ll let you know.”
+“Yaar, it’s a tough life, either way. So you’d better want it with your whole heart.”
+Arun heard an odd sound. A drumbeat. Not the bhangra beat, more like a heartbeat.
+Mahesh wasn’t laying down the soundtracks yet. He was too damn tired.
+“I’m exhausted,” he said to Mahesh. “I’d better get some sleep.” Without thinking, he
+touched the skin under his eyes. “Makeup complains. It’s hard to conceal.”
+Mahesh reached down. “Try this.” Two capsules filled with brown powder.
+“What is it?” Heroin. Soma. All kinds of drugs floated around the movie business.
+“Herbs. All natural. They’ll help you sleep.”
+Arun took them and sniffed them. “They stink!”
+“Herbs do. They come from the earth. They’re safe, and they work.”
+
+Page 6
+
+The Cosmic Editor
+
+What the hell, Arun thought as he undressed for bed. He took them. He slept better than
+he had since filming began. The next morning, when he looked in the mirror, the smudges were
+gone.
+
+A week later, Mahesh called to invite Arun back to the studio. He said that he and his
+sister Mimi had a surprise.
+“I’m not ready to get married,” Arun said.
+“No, no,” Mahesh said, laughing. “She’s an animator. Animation software. She has
+something she wants to show you.”
+He smelled the cumin, coconut, and fresh coriander in the hallway, well before he entered
+the room. Now the crowded room held a table, and the table held his favorite dishes. Coconut
+shrimp, the shrimp tiny and succulent, the coconut pungent as though it had just fallen from the
+palm. Rice fragrant with lemon. Dal made with roasted eggplant. Chapatis that smelled fresh
+from an old-fashioned stone griddle. A dozen bottles of beer nestled in a bowl of ice.
+Mimi said, “I can’t believe that Mahesh kept you for hours last time and didn’t give you
+more than samosas and chai. Please, eat.” Her voice was low, resonant, arousing. She looked just
+like her brother, tall and slender and dark, except that her hair tumbled to her shoulders. She
+wore a gold stud in her earlobe, the double of her brother’s.
+He ate with great pleasure. When he finished he was drowsy and satisfied.
+Mahesh dimmed the lights as Mimi sat at the computer and beckoned Arun to join her.
+He could barely see her in the dark. She smelled of cinnamon, cumin and pepper—garam
+
+Page 7
+
+The Cosmic Editor
+
+masala. If he licked her skin, he thought, it would burn his tongue. Mahesh joined them. They
+flanked him, Mimi to his left and Mahesh to his right.
+She opened the software. Arun moved close to her. “What is it?” he asked.
+“Animation tool.” The screen filled with a luminous, pulsing, rotating globe, in beautiful
+shades of green and blue. She said, “It will take a while to get the file up and running.” She
+stroked the server. “Big files.”
+The screen went black, the velvety black of a starless night. Slowly, slowly, an image
+emerged from the darkness. The topknot. The dark face with the aquiline nose. The torso clad in
+a sacred thread and a cobra. The four arms. The dancer’s legs and bare feet. Light glinted on his
+gold bracelets and anklets. Around his head bloomed a great halo of flame. He moved, as supple
+as a snake, and music began to play. Bhangra. Softly as first, then louder and louder, until the
+beat of the dhol resonated in Arun’s head, his chest, his belly, his groin. Shiva began to dance.
+Was he smiling? Did he have Mahesh’s smile? Lord Shiva danced to a bhangra beat. Mimi put
+her hand on Arun’s arm and he started at her touch. Another figure entered from the rightmost
+corner of the screen. Himself. Dancing, gracefully and easily as he never did in real life. Was he
+awake? Was he dreaming? Awake or dreaming, was it an illusion? Arun watched as he danced
+with the Cosmic Dancer.
+He whispered, “How did you do that?”
+Mimi’s breath was warm on his ear. “Magic,” she said.
+Mahesh chuckled low in his throat. “Software,” he added.
+
+Arun dreamed.
+Page 8
+
+The Cosmic Editor
+
+Of someone whose skin was black like theirs. He had broad shoulders, but wide hips; his
+left breast was flat and muscular like a man’s, but his right breast was round and full like a
+woman’s. He wore heavy earrings that dragged at his lobes, ornate gold necklaces, armbands that
+gleamed when he moved, and anklets adorned with bells. His only clothing was a loincloth.
+Instead of a sacred thread, he wore a living cobra, which nestled against him like a kitten. From
+the front, his hair was pulled into a topknot; from behind, it was a mass of tangles to his waist.
+In each of his four hands he held an emblem. One was a computer, tinier than the tiniest
+palmtop, with a glittering screen. The second was a miniature video camera that made a purring
+sound. The third was a length of fiber optic cable that writhed like a living thing. The fourth was
+a blank CD as blinding as an exploding sun.
+Arun asked him, “Why are you here?” He spoke in Kannada, his parents’ native tongue;
+dreaming, he was fluent.
+Shiva spoke. In Kannada, he replied, “Come with me.”
+They sat in the editing studio before the screen Arun knew better than his own face. Lord
+Shiva touched the mouse, and the film began to play. Arun’s life. Shiva clicked on the toolbar,
+dropping down the menus, cutting, pasting, adding transitions, putting in dissolves. “What are
+you doing?” Arun asked him.
+“Creating the drama,” Shiva said.
+The scenes flashed by too fast. Was he looking at his own future? Or at the movies he
+would make? He couldn’t tell.
+Shiva let go the mouse. The screen went blank. He said, “I’ve done all I can. The rest is
+up to you.”
+
+Page 9
+
+The Cosmic Editor
+
+Arun stared at the screen and picked up the mouse. His hand shook so badly he dropped
+it.
+Shiva stood. His loincloth fell away. His phallus was huge and erect against his belly. He
+pressed Arun’s hand against it, and it felt as hard as sun-warmed stone. To Arun’s surprise and
+shame, savage and exquisite pleasure shot through his body. Shiva said, “There is no pleasure
+without pain. No joy without sorrow. The power to create is also the power to destroy.”
+The scene faded to black. Arun woke. His room was full of light and the smell of incense
+and marigolds.
+
+Page 10
+
+

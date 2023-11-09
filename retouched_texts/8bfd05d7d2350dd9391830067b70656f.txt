@@ -1,0 +1,418 @@
+Al doubled stepped down the hallway, skipped past his office then on towards the
+conference room. He was late for his staff meeting. At six foot three, a hundred eighty
+pounds, and blessed without the slightest trace of nimbleness, he was a giant black suit
+lurching down the corridor. Sheila stuck her head out from his office as he passed. “Phil
+just called. He wants you upstairs. Now.”
+“Jeez.” He turned to her pedaling backwards, hitting one wall with a shoulder, bouncing
+back then hitting it again. “Tell Amee you’re still trying to find me. I need ten minutes
+with my guys. I gotta have enough time to cover a couple things with them. They’re all
+there. Waiting. It’ll be fast.”
+“Won’t work, Al. I told Amee you just got back from the meeting with Store Design. She
+knows you’re down here,” Sheila’s voice drawn, tired. She had gotten in early, before 6
+a.m., in another attempt to get through some of the papers that overflowed her In-Box.
+It had not gone well. Al showed up at 6:30, called her into his office and started to rearrange the meetings she had planned for his day.
+
+When there was a pause between his moving this and inserting that, Sheila told him
+about the memo. The only one she had gotten through was another request from
+Payroll stamped URGENT in big red letters across the top. They asked once again why
+overtime had nearly doubled for the night crew.
+
+Al had ignored the first one when she put it on his desk two days ago. The second one
+was nastier, threatening to freeze his overtime budget if he didn’t respond ASAP.
+Sheila had come up with what she thought was a good response and wanted Al’s
+approval.
+“I’m telling them it’s all due to the cheap paper we’ve been getting. That it keeps
+jamming up the laser printers so we have more people spilling into the third shift. You
+good with that?’
+
+Al almost spilled his coffee on to his lap. “That’s great Sheila! Really clever. That paper
+Procurement gives us is the lousiest crap I have ever seen. Jams up all the time too.
+Not that they have anything to do with the overtime but still, blaming it on some other
+area’s cost cutting racket is a slick piece of work. Send it out.”
+That made her feel good for about 20 seconds and then it was back to Al’s calendar.
+When they finished up at 7:30; the lights on Sheila’s four-line phone were all blinking.
+That meant Amee was in and Phil had changed his calendar. Phil was Al’s boss and he
+drove Amee crazy.
+
+Phil had half a dozen managers that reported to him. His managers hated each other
+more than they hated him and Phil encouraged both by setting impossible deadlines,
+fanning rivalries and erratically axing budgets. “Management by Sturm und Drang,”
+he’d say on mornings when things were going particularly well. “Deming had his way, I
+have mine.” Amee was used to it by now as were the other secretaries. They each
+spend their day stumbling from crisis to crisis, cleaning up after hallway calamities and
+muffling screams and fisticuffs that seeped from behind conference room doors.
+
+So it was just another day for Sheila. The lights on her phone would stay lit all day,
+patiently blinking off and on in counterpoint to the whirling dervishes running in and out
+of Al’s office. In early evening they would finally twinkle out as one manager after
+another slinked off to anesthetize the terrors of the day in one of the bars on Seventh
+Street. It was 1977. You could still buy a glass of beer for a quarter.
+“Well, shit. Dammit.”
+He poked his head into the conference room. “I am sorry. I gotta go upstairs. We have
+to cancel. I put a memo on all your desks this morning about tonight’s test time. You
+need to read it and be ready. If you have any questions, leave me a note and I will try
+
+2
+
+The Iron City Kids
+
+to get back to you later today. It’s pretty simple – have things cleaned up for the testers
+by 7 p.m. Start shutting down early if you have to but make sure they have it on time.
+“I’ll have Sheila get us together tomorrow and we can go over how things went tonight.
+Sorry. It’s going to be one of those days.”
+
+With that he spun and headed back down the hall towards the elevator. Shelia would
+have told Amee he was on his way up. It had been a bad night getting the computer
+schedule out, the meeting with Store Design was a disaster and now Phil was going to
+kick his butt about something.
+
+Al Morley managed the United Stores Global Data Center in downtown Pittsburgh.
+United Stores was the second biggest retailer in the American. They owned eight
+chains of retailers scattered across thirty-seven states. Most were long established
+stores like Strauss Brothers in New York or Nelson’s in Denver or Bingham & Sons right
+there in Pittsburgh. Two of the newer chains – EZ-Buy and Gold Markets – were big box
+discounters going after Kmart and Hills. Most people never heard of United Stores but
+70% of American shoppers bought something from one of their stores each week.
+Phil Moss ran the technology side of the data center – the computer room, the network,
+all the phone systems, plus a bunch of people who programmed the things.
+
+Phil had
+
+been with the company four years. He hired Al two years ago. They were both part of a
+United Stores executive brainchild to centralize each of the individual store’s IT
+organizations into one giant corporate group. Fred Finkelstein came up with the idea
+four years ago. He was the company’s Comptroller and married to Irma Goldman. The
+Goldmans owned United Stores. Irma’s daddy, Murray, was the CEO.
+The stores weren’t thrilled about having a single computer system run by the home
+office. Before Fred’s consolidation proposal, the store heads pretty much operated
+their business any way they wanted. Sure, they had to negotiate their annual plan with
+Murray every January, often a brutal affair with Murray resorting to the Goldman version
+3
+
+The Iron City Kids
+
+of waterboarding until each president agreed to a sales goal they were certain could not
+be met.
+But once it was done, it was done – you gave Murray a glowing sales report each month
+and he stayed out of your way for the rest of the year. You had twelve months to cook
+the books, find a disaster to blame on God, or marry a Goldman before you had to settle
+up with Murray again.
+But if headquarters ran the IT systems, then Murray’s guys would see the accounts and
+the inventory and the sales every week. All the magic the presidents used to
+bamboozle Murray into thinking everything was on plan would be quickly undone. No
+more fairy tales, no more rabbits leaping from a hat; Murray would have their nuts on
+the table every month.
+
+Fred was married to a Goldman and Goldman blood trumped even the savviest store
+guy. So when the store heads heard Fred’s consolidation proposal, they fell over each
+other telling Murray what a great idea it was. Then they quietly worked to sabotage any
+piece of it they could.
+It didn’t help matters when Fred hired John Chester to lead the newly formed United
+Stores Global Technology Group. Chester’s claim to fame was automating the Chicago
+Board of Trade. Before Chester, the Board was doing their puts and calls on little slips
+of paper that got sucked into pneumatic tubes on the trading floor and blown up five
+flights to the booking section where three dozen little old ladies transcribed them into
+ledgers, wrote out transfers, and send wire requests to the owning brokers.
+
+It was 1970 and there were these computer things around. So the Board of Trade hired
+John Chester to automate the floor and build a network that dialed up the broker’s
+computers directly. John brought his old buddy Phil Moss along to handle the hardware
+end. Three years later, the Board was in the 20th century and a bunch of ladies took
+early retirement.
+4
+
+The Iron City Kids
+
+When Finkelstein was looking for someone who could come in and build an information
+system, he hired Booker & Booker to find the best IT executive around. They came up
+with John Chester. Chester wasn’t crazy about moving to Pittsburgh but Goldman was
+offering big bucks and a nice stock package. Four years in Pittsburgh would make John
+a rich man. Chester convinced Finkelstein that computers were computers, buying and
+selling was buying and selling and there wasn’t a whole lot of difference between
+automating a stock exchange and a national retailer. Unless all the guys who ran the
+little retailers that made up the national retailer shot arrows at the target on your back.
+But Chester didn’t know that then.
+
+Fred Finkelstein hired John Chester in September 1974. John brought in Moss two
+months later. By the time Al joined the firm in 1976, the ‘computers were computers’
+had been recognized for the malarkey it had always been. Chester’s consolidation plans
+had become mired in corporate sabotage, broken promises and appalling cost overruns. In year two, John Chester found out that different from the broker/bankers who
+ran things at the Board of Trade, retailers watched money like every penny was one of
+their children. Fred Finkelstein knew about cost overruns of course, but he never met
+one. Chester exhausted his whole 1976 data center build budget in the middle of the
+year and told Fred over lunch he needed more – like five million dollars more just to
+make it through the end of the year. It took about 30 seconds for Chester to realize the
+enormity of his fuckup. Fred’s executive charm face with its benevolent smile and
+beaming eyes, slid into a scowl ominous enough to make Bela Lugosi’s skin crawl as
+the words ‘five’ ‘million’ and ‘more’ tumbled out of Chester’s mouth. It took Chester
+three straight scotches to explain what happened while Fred sipped ice water in silence.
+“We don’t do this at United. Ever,” was Fred’s only response. Then he got up and left.
+Chester picked up the check on that one.
+John Chester didn’t get fired. Fred went to Murray and came back with the five million.
+But things had changed – Fred started looking at Chester’s expenses every week,
+second guessing his supplier choices, and let the retail store IT guys turn the screws on
+5
+
+The Iron City Kids
+
+him a little harder whenever there was a problem. Murray approved Chester’s 1977
+plan and budget but he moved Fred to the west coast and brought in his brother
+Seymour as Chester’s new boss. That’s when Chester started keeping the bottle of
+scotch in his lower desk drawer.
+So by 1977, John Chester’s life was hell. As a seasoned executive, he ensured the
+heat under his feet burned his subordinates’ even worse. Phil’s life became miserable
+and poor Al – the guy who was building this hardware palace (and spending enormous
+amounts of cash) – poor Al quickly realized what a disastrous career choice he had
+made. His talent for managing people, a hitherto distinguished record of delivering
+projects, and mastery of contract law – all were reduced to insignificance soon after
+joining United Stores. His days were lost to numbing Phil Moss harangues, useless
+phone calls with peers at the stores, meetings with patronizing vendors and only half
+disguised smirks from the people who worked for him whenever he walked by. Who
+wouldn’t be depressed?
+
+Al replayed this catastrophe a dozen times a week, especially when he was on the
+elevator ride from his office on the fourth floor to Phil’s on the seventh. As the elevator
+stumbled up the three floors, he figured today’s stink bomb was probably the storage
+racks.
+
+Phil would have got the new orders this morning.
+
+He stepped off the elevator. This was the minor Executive Suite. Chester and Moss
+had their offices here. Seymour’s and Murray’s were upstairs. Carpet covered the floor
+here; better carpet upstairs. Al’s floor was graced with the building’s original cement
+painted green.
+
+Amee just nodded to Al to go in. Phil was on the phone taking to someone that
+sounded like one of the retail guys. His phone voice was slow and friendly but when he
+glanced up all Al could see was rage in his eyes.
+
+6
+
+The Iron City Kids
+
+“Goddamn Hooper in Miami! Fuck that guy! Another goddamn month before we can
+hook ‘em up. And then he will just string it out again in two weeks. Fuckin’ Chester
+says Seymour’s on Hooper’s side on this one.” Phil had hung up the phone.
+“Screw ‘em. Phil. We’re all fucked if Seymour keeps letting the retail boys run wild.”
+“Jesus you’d think with all the money he’s spending, he’d be on our side for once.”
+“They’re retailers Phil. Countin’ every penny while dollar bills flush down the shitter.”
+“Dollars. Yea,” Phil was changing track. “Ok – so no more storage racks Al. You know
+we don’t have the budget for this. They are cheap onesie-twosie but you want a
+hundred more? Christ, come on! I don’t have money for this kind of crap. Why are you
+just figuring it out now you need DOUBLE the racks you asked for?”
+“It’s those damn Store guys Phil – same as before. They drilled holes for the utility lines
+right in the middle of the computer room floor which cut through all the rebar. Now the
+right side of the room has about a third of the strength the floor was built for. So I
+moved the rack closets as far from the utility lines as I could. Then the engineers pull
+up the floor to take a new tensor sample and guess what? The fuckers had drilled
+some holes over there too only nobody knew about them. They must have drilled them
+first just guessing where the real lines would be. Beeker in Store Design says Penn
+Power moved the lines at the last minute. I figure they never checked.” Al paused to
+see how this was playing. Phil’s glare had not changed.
+“Phil, it’s this goddamn retail mentality again. They bring in Store Design to build a
+computer room like it’s just another display window at Bingham’s. And they fuck it up.
+But the fuck up isn’t even on the blueprints they made for us. I didn’t know any of this
+stuff when I put the equipment closet where I did. Now I need to spread out the racks –
+can’t stack them more than three high or they will fall through the floor. So I need twice
+as many racks.”
+7
+
+The Iron City Kids
+
+Phil reached for the phone on his desk, picked it up, and threw it at Al. The phone flew
+across the room, the hand set and base separating mid-air, then the wall cord snapped
+taunt and they both fell to the ground two feet in front of Al. Last week Phil threw a pen
+at him; he could still feel the sting on his cheek.
+The phone lay on the floor – its whaa-whaa busy tone buzzing from the ear piece. Al
+stepped over to pick it up and put it back on Phil’s desk.
+“I gotta have the racks Phil. We need to set up the expansion area next weekend and
+the network equipment goes in the racks. It’s all sitting in boxes waiting to be installed.”
+Al sat down again.
+Phil was looking down at some papers on his desk. “You buy the racks and spend the
+extra two hundred thousand. Then you cut two hundred thousand somewhere else in
+your budget. I don’t care where but you figure it out.” Phil scrawled something on one of
+the papers.
+“Phil – that’s impossible. It’s September. The year is almost gone. How am I gonna
+cut that much?” Phil had piled one stack of paper on another and was reaching for a
+third. Maybe Phil was reading them; but Al figured it was just a way to ignore him.
+Might as well tell him now.
+“Phil, one more thing.” Phil kept reading. “We had an accident last week in the
+computer room. One of the guys broke his arm. He hasn’t said anything to Personnel
+yet but if he does, we could have trouble. Just want to you be aware in case you hear
+about it.”
+“He broke his arm? In the computer room? How in the hell did he do that?”
+
+8
+
+The Iron City Kids
+
+Phil’s stink detector had switched on. “It happened during test time last Tuesday. One
+of the test guys got pissed and lost it. He threw a chair at the wall. Nelson – my guy –
+happened to be in the way.”
+
+Phil put his pencil down and looked straight at Al. Al slid back in his chair in case the
+phone was coming his way again.
+“Were those tester guys drunk again Al? Tell me, were they drunk?”
+“I wasn’t there Phil. The security guard said the four test guys came in stumbling and
+stunk of beer. So he says they were drunk. My guys haven’t said shit. Not after the
+ringer they got put through last time for complaining about the test guys. But if Nelson
+goes to Personnel and Personnel talks to the guard, there’s gonna be trouble.”
+Phil sat back and looked at the ceiling tiles. “Al, this Nelson guy – what’s he do?”
+“He is just a tape hanger.”
+“Bright guy?”
+“Bright enough to read numbers off a tape label and usually get it hung on the right
+drive. Not a lot brighter.”
+“Right Al, right,” Phil was still eyeing the ceiling, “listen, I don’t want to tell you how to
+run your department but you know what I’d do? I’d take this Nelson guy aside and I tell
+him you notice just how good a job he is doing. And I’d tell him about this new, better
+job that is coming up in a couple of months and how he could be perfect for it. You
+know?”
+“You think I should bribe this guy? Jeez.”
+
+9
+
+The Iron City Kids
+
+“I’m not looking at it that way. Hell you got a huge crew. You always got a place to
+promote somebody into. There’s ways to make this whole situation go away. Figure
+something out.”
+Al got up and moved to the door. “I will let you know what happens.” Phil was back to
+the papers on his desk. “No need to Al. You just handle it so I don’t hear about it.
+OK?”
+
+*****
+
+Sheila was waiting for him when he got back to his office. “Tooters is looking for you.
+And your wife called. She is at a gas station off of I-79. She ran out of gas. Here’s the
+pay phone number at the gas station.”
+
+Jeez. How could she run out of gas? Like I really need more bullshit now.
+Tooters stuck his head in the office. ‘Five minutes is all I need, Al,” as he plopped into
+the side chair.
+
+Rex Tooters managed the testers. It was his guys that came in every Tuesday evening
+to take over the computer room for two hours testing whatever software they were
+getting ready to install. Tooters had only been with the company for three months. His
+predecessor was another guy Moss hired at the same time Al came on. He lasted
+eighteen months then Moss fired him after another software release schedule got
+missed.
+
+Tooters was a pushy loud mouth still trying to figure out exactly what the test team was
+testing though his ignorance did not prevent him from quickly becoming a big pain in
+Al’s backside. He complained relentlessly about either the lack of test time on the
+computer or how Al’s staff meddled with the tester’s work. Tonight was test night.
+Tooters was here for one or both of those reasons.
+10
+
+The Iron City Kids
+
+“Listen Al, you got to get your guys under control. I need my full two hours of time
+tonight and I can’t have my guys standing around while your people finish up their last
+minute crap doing this or that. You need to be done by 6:59 p.m. My schedules are
+slipping. You’re the cause and that’s what I am telling Moss and Chester every time
+they ask.” Tooters sounded neither angry nor frustrated. He had agreed to widely
+unrealistic delivery dates in the first place, thinking that would impress Moss. Of course
+the dates were slipping. Now Tooters was going the motions to shift the blame,
+hopefully on Al. It was a fool’s game. Moss could care less about excuses. Tooters
+had already planted the sword he would soon fall upon.
+.
+“Rex, you know how systems work. We shut things down at 6:30 but it takes time for
+stuff that’s already started to finish. We give you the full two hours. If you get the
+computers late, you give them back whenever the two hours is up. You always get your
+time.”
+“Well he didn’t last week. We lost thirty minutes because that damn tape hanger broke
+his arm and everybody stood around pickin their asses till they finally figured someone
+should take him to a hospital.”
+“He broke his arm because your guy threw a chair at him. You and I are both going to
+be in pretty hot water if this goes down to Personnel. And if it does, your guy is taking
+the fall. He was drunk and belligerent. This is a goddamn data center not a fight ring. I
+don’t give a shit what Nelson did or said. You don’t come into work drunk and assault
+people,”
+“Leonard was angry ‘cause your guy was still hanging tapes but he wasn’t drunk.”
+“Listen Rex, Leonard walked right past Jason Abbott the night guard, to get into the
+computer room. Abbott will say Leonard was stumbling about and stinking of beer. It’s
+in his log.”
+11
+
+The Iron City Kids
+
+“Abbott is a washed up flatfoot that even Bingham wouldn’t let walk the floors any more.
+He’s got to be near seventy. The store wanted to retire him, couldn’t, so they sent him
+over here. His word isn’t worth a shit.” Rex’s face was red and getting redder. He had
+probably joined his boys after lunch at the Rickshaw Lounge as they prepped their test
+plans over glasses of Iron City beer.
+‘Say what you want, but listen: your guys were drunk last Tuesday just like they are
+drunk every Tuesday. They come in here tonight making a scene and I am shutting
+down the test period and you and I going to see Moss in the morning. Phil doesn’t put
+up with shit like this. Push it if you want but your guys have crossed a line.” Al looked at
+him the whole time, waiting for something he could dig into. But Rex just sighed and
+looked down.
+“Phil wants to make the dates. He doesn’t give a crap how,” Rex spoke slowly.
+“You’re right. But Rex – you aren’t making your dates are you?” Al looked to catch his
+eyes but Rex was still staring at office floor.
+He got up to leave, “Ok buddy. Just make sure we get our time tonight. My boys just
+want to do their job.”
+So much for teamwork thought Al. He glanced at his watch – 5:50. Shit Vicky was at a
+gas station.
+“How did you run out of gas?”
+“You didn’t think the fuel gauge was working right? You wanted to see if the little light
+came on? Why on earth…! I mean, if you thought it was broken, why would you drive
+it until the indicator…?”
+
+12
+
+The Iron City Kids
+
+“Sorry. I didn’t mean to get you more upset. It’s just that…well maybe you could’ve let
+me know last night...uh?
+“Well we have an important test thing going on here at 7. I can’t leave until it gets going
+and everything looks like its running, OK? Maybe 7:30; maybe a little later.”
+“What do you mean Bobby is still at school?! He’s there now? Well shit.”
+“I can’t leave now. Can’t Gloria or someone pick him up? When were you supposed to
+get him anyhow?”
+“At 5? Do you know what time it is now? What’s going on with him now?”
+“Now wait. They won’t lock the school up if he’s there. No they can’t do that. Can’t you
+get a cab or something and go over there now?”
+“Where? The Moon Run exit? What were you doing over by Moon Run? Jeez you’re
+miles from the school.”
+“Yea Ok….OK. You were driving. To figure out if the gauge worked. I got it. Jeez.”
+“Hey don’t hang up. Vicky!! Vicky!! Shit.”
+It was after six. Sheila was gone. He could see the light in Tooter’s office from under
+the closed door. The bullpen where the testers sat was empty. They were probably
+finishing off their last round of Iron City at the Rickshaw.
+Al walked down to Alex Ranowski’s office. Alex was the department’s ‘Relationship
+Manager’. That meant he handled the sweet talking to the stores. Alex was a second
+cousin to one of the Goldmans. He had bounced around United Stores for over twenty
+years when Finkelstein brought him in from New York. From what Al could see, Alex’s
+13
+
+The Iron City Kids
+
+main job was schmoozing – travelling across the country from one store to the next,
+dining a department head, buying drinks for a buyer, sucking up to whatever guy
+needed sucking up to. But he rarely came to the office so he didn’t bother Al.
+
+The office was a mess. There were piles of paper everywhere. Alex insisted on being
+copied on every piece of correspondence anybody in IT ever sent to a store. But he
+was never in his office so he never read them. There were reports, printouts, blueprints,
+stencils, all kinds of junk, stacked anywhere he could fit it in.
+
+Alex liked cigars. Al poked through the desk drawers until he found what he was
+looking for: lighter fluid. He was in luck – Alex had two cans of the stuff - one half full,
+another unopened.
+
+Al squeeze the full can over the papers and down the sides of the desk. The nice thing
+about Alex’s office was that the main electrical lines for the building ran through a
+conduit shaft in the corner of the office. Those were the same lines that caused Al so
+many problems trying to install the equipment racks.
+
+Al sprayed the second can across the carpet and around the conduit shaft. The
+smoke, and with luck, the fire itself, would race up through the shaft and into the
+computer room on the floor above setting off holy hell. By then, Al would be heading
+towards the parking lot and on his way to pick up his son. An emergency call from the
+school. What else could he do? Al had thoughtfully brought a book of matches with
+him.
+
+14
+
+
