@@ -30,7 +30,11 @@ def generate_sample(story, length=0, at_beginning=False):
 
     # control
     if length == 0:
-        return ' '.join(story[sample_start:].split(' ')[:500]), sample_start
+        story_clip = ' '.join(story[sample_start:].split(' ')[:500])
+        end = sample_start + len(story_clip)
+        while end < len(story) and story[end-1] not in punctuation:
+            end += 1
+        return story[sample_start:end], sample_start
 
     # one sentence
     if length == 1:

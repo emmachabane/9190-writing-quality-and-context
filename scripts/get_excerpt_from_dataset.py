@@ -11,7 +11,6 @@ def get_excerpt_from_dataset(src_dir, dataset, row_num):
     story_file = open(src_dir + id + '.txt')
     story = story_file.read()
     story_file.close()
-    print(start, end)
     return story[start:end]
 
 if __name__ == '__main__':
