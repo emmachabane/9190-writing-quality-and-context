@@ -1,6 +1,7 @@
 import random
 import os
 import pandas as pd
+import re
 
 def generate_sample(story, length=0, at_beginning=False):
     '''
@@ -17,13 +18,14 @@ def generate_sample(story, length=0, at_beginning=False):
         - True = samples from the beginning
         - False = randomly begins sample somewhere in the middle half
     '''
-
+    punctuation = '!.?'
+    sentence = f'[^{punctuation}]*[{punctuation}]'
     if at_beginning:
         sample_start = 0
     else:
         sample_start = random.randint(len(story)//4, 3*len(story)//4)
         # makes sample start at the beginning of a sentence
-        while story[sample_start-2] != '.':
+        while story[sample_start-2] not in punctuation and sample_start > 0:
             sample_start -= 1
 
     # control
@@ -32,11 +34,12 @@ def generate_sample(story, length=0, at_beginning=False):
 
     # one sentence
     if length == 1:
-        return story[sample_start:].split('.')[0], sample_start
+        return re.search(sentence, story[sample_start:]).group(0), sample_start
 
     # min of 3 sentences or 80 words
     if length == 2:
-        sentences = '.'.join(story[sample_start:].split('.')[:3])
+        sentences = (re.search(sentence*3, story[sample_start:]) or 
+                     re.search('.*', story[sample_start:])).group(0)
         words = sentences.split(' ')
         if len(words) > 80:
             return ' '.join(words[:80]), sample_start
@@ -46,7 +49,7 @@ def generate_sample(story, length=0, at_beginning=False):
     if length == 3:
         # find the first paragraph break nearby to start
         end = sample_start + len(' '.join(story[sample_start:].split(' ')[:150]))
-        while end < len(story) and story[end-1] != '.' and story[end] != '\n':
+        while end < len(story) and (story[end-1] not in punctuation or story[end] != '\n'):
             end += 1
         return story[sample_start: end], sample_start
 
