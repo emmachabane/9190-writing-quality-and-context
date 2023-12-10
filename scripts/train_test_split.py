@@ -9,7 +9,7 @@ def get_train_test_split(train, val, test, dataset, seed=3):
     assert(train+val+test == 100)
     random.seed(seed)
     indices = list(dataset.index)
-    random.shuffle(list(dataset.index))
+    random.shuffle(indices)
     length = len(indices)
     train_indices = indices[:(length*train)//100]
     val_indices = indices[(length*train)//100: (length*(train+val))//100]
